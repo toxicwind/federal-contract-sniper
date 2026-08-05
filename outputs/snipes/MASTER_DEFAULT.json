@@ -1,0 +1,45 @@
+{
+  "generated": "2026-08-05T16:29:11.924108",
+  "profile": "default",
+  "profile_name": "Default Tech Sniper",
+  "user": "Christopher Ortega",
+  "company": "Effusion Labs LLC",
+  "total_queries": 8,
+  "total_unique": 3,
+  "total_ms": 282.93,
+  "top_20": [
+    {
+      "id": "IT-1",
+      "title": "Notification of Award of Sole Source Bridge Action_Cybersecurity and Privacy Program Support Service",
+      "score": 22,
+      "reasons": [
+        "no_clearance",
+        "sole_source",
+        "very_recent"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "W15P7T13RD048",
+      "title": "58--4 sets of tactical seismic/acoustic sensors (Battlefield Anti-Instrusion System (BAIS) or equiva",
+      "score": 20,
+      "reasons": [
+        "no_clearance",
+        "it_keywords_1",
+        "ai_keywords_2"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "W50S9E26QJ012",
+      "title": "Student Recruitment and Enrollment Management Platform",
+      "score": 19,
+      "reasons": [
+        "no_clearance",
+        "ai_keywords_1",
+        "very_recent"
+      ],
+      "deadline": ""
+    }
+  ]
+}
