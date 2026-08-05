@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Secrets
+*.env
+.env
+secrets/
+*.key
+*.pem
+
+# Outputs (generated artifacts)
+outputs/run/
+outputs/snipes/*.log
+outputs/benchmarks/*.jsonl
+outputs/routes/*.json
+outputs/stolen/*.py
+outputs/stolen/*.js
+outputs/stolen/*.ts
+outputs/stolen/*.rs
+outputs/stolen/*.go
+outputs/stolen/*.scala
+outputs/documents/*.txt
+
+# Data cache (large files)
+data/cache/*.json
+!data/cache/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
