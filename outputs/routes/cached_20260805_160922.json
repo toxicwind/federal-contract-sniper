@@ -1,0 +1,305 @@
+{
+  "query": "prototype",
+  "result": {
+    "ok": true,
+    "route": "cached",
+    "results": [
+      {
+        "isCanceled": false,
+        "_rScore": 81,
+        "_type": "opportunity",
+        "publishDate": "2026-07-15T19:50:57+00:00",
+        "isActive": false,
+        "title": "23--Procure two (2) prototypes and twenty-five (25) full production of On-The-Move (OTM) Counter-Unmanned Aircraft System (C-UAS) Special Operations Vehicle (SOV). IDIQ, FFP, 5-years.",
+        "type": {
+          "code": "a",
+          "value": "Award Notice"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2026-07-15T19:50:57.948+00:00",
+            "content": "Procure two (2) prototypes and twenty-five (25) full production of On-The-Move (OTM) Counter-Unmanned Aircraft System (C-UAS) Special Operations Vehicle (SOV). IDIQ, FFP, 5-years. "
+          }
+        ],
+        "solicitationNumber": "89233126DNA000078",
+        "responseDate": null,
+        "parentNoticeId": null,
+        "award": {
+          "awardee": {
+            "ueiSAM": "ESY3CTEH56A7",
+            "name": "NOMAD GLOBAL COMMUNICATION SOLUTIONS, INCORPORATED"
+          }
+        },
+        "responseTimeZone": null,
+        "modifiedDate": "2026-07-30T05:07:21+00:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100011980",
+            "code": "8900",
+            "address": {
+              "zip": null,
+              "country": "US",
+              "city": "Richland",
+              "streetAddress": "2345 Stevens Drive",
+              "streetAddress2": null,
+              "state": "WA"
+            },
+            "level": 1,
+            "name": "ENERGY, DEPARTMENT OF",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "100011981",
+            "code": "8900",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "ENERGY, DEPARTMENT OF",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100188269",
+            "code": "892331",
+            "address": {
+              "zip": "87185",
+              "country": "USA",
+              "city": "ALBUQUERQUE",
+              "streetAddress": "P.O. BOX 5400",
+              "streetAddress2": null,
+              "state": "NM"
+            },
+            "level": 3,
+            "name": "NNSA NON-MO CNTRCTNG OPS DIV",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "931952d9736d46e99365e6670f86e08f",
+        "responseDateActual": null,
+        "modifications": {
+          "count": 0
+        },
+        "_source_query": "unmanned",
+        "_enriched": true,
+        "_enrichment": {
+          "naics": [],
+          "set_aside": "None",
+          "dates": {
+            "posted": "",
+            "response_deadline": "",
+            "archive": "",
+            "award": ""
+          },
+          "contacts": [],
+          "place": {
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+          },
+          "tags": [
+            "drone",
+            "counter-uas"
+          ],
+          "related": [
+            {
+              "id": "W15QKN-26-X-1C9P",
+              "title": "50mm weapon based Air Defense Counter-Unmanned Aircraft Syst",
+              "score": 4,
+              "source": "unmanned"
+            }
+          ],
+          "enriched_at": "2026-08-05T14:08:09.114512"
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 56,
+        "_type": "opportunity",
+        "publishDate": "2025-03-04T20:22:57+00:00",
+        "isActive": false,
+        "title": "Prototype Project Opportunity Notice (PPON) for Precision Grenadier System (PGS) Technology Demonstration",
+        "type": {
+          "code": "o",
+          "value": "Solicitation"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2025-03-04T20:22:57.148+00:00",
+            "content": "<p>The purpose of this Amendment is to update the Q&amp;A.&nbsp;</p>\n\n<p></p>\n\n<p>Prototype Project Opportunity Notice (PPON) - Precision Grenadier System (PGS) Technology Demonstration, &nbsp;W15QKN-25-R-14B5. Related notice W15QKN-25-X-12TE.</p>\n\n<"
+          }
+        ],
+        "solicitationNumber": "W15QKN25R14B5",
+        "responseDate": "2025-03-13T20:00:00+00:00",
+        "parentNoticeId": "ad85101eb64e44a194df57964b005c03",
+        "award": {
+          "awardee": {
+            "ueiSAM": null,
+            "name": null
+          }
+        },
+        "responseTimeZone": "America/New_York",
+        "modifiedDate": "2025-04-11T04:04:30+00:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100000000",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "DEPT OF DEFENSE",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000201",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "DEPT OF THE ARMY",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100000117",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 3,
+            "name": "AMC",
+            "type": "MAJOR COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "100007305",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 4,
+            "name": "ACC",
+            "type": "SUB COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "500038569",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 5,
+            "name": "ACC-CTRS",
+            "type": "SUB COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "500045604",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 6,
+            "name": "ACC-NJ",
+            "type": "SUB COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "500045967",
+            "address": {
+              "zip": "07806-5000",
+              "country": "USA",
+              "city": "PICATINNY ARSENAL",
+              "streetAddress": "KO CONTRACTING OFFICE",
+              "streetAddress2": "BUILDING 10 PHIPPS RD",
+              "state": "NJ"
+            },
+            "level": 7,
+            "name": "W6QK ACC-PICA",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "a8f976c2818747edae81b52b5c0ba5b7",
+        "responseDateActual": "2025-03-13T16:00:00-04:00",
+        "modifications": {
+          "count": 1
+        },
+        "_source_query": "counter_UAS",
+        "_enriched": true,
+        "_enrichment": {
+          "naics": [],
+          "set_aside": "None",
+          "dates": {
+            "posted": "",
+            "response_deadline": "",
+            "archive": "",
+            "award": ""
+          },
+          "contacts": [],
+          "place": {
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+          },
+          "tags": [],
+          "related": [
+            {
+              "id": "W15QKN-25-X-12TE",
+              "title": "Call for Participants \u2013 Product Manager Soldier Weapons Prec",
+              "score": 9,
+              "source": "counter_UAS"
+            },
+            {
+              "id": "W15QKN-25-X-19B0",
+              "title": "Call for Participants \u2013 Product Manager Soldier Weapons  Pre",
+              "score": 7,
+              "source": "counter_UAS"
+            }
+          ],
+          "enriched_at": "2026-08-05T14:08:09.237941"
+        }
+      }
+    ],
+    "ms": 0,
+    "total_ms": 109.49873599997773,
+    "benchmark_ms": 22.331314999973984
+  },
+  "ts": "2026-08-05T16:09:22.989518"
+}
