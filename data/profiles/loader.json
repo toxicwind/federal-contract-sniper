@@ -1,0 +1,360 @@
+{
+  "version": "3.0.0",
+  "active_profile": "health_it",
+  "user": {
+    "name": "Christopher Ortega",
+    "company": "Effusion Labs LLC",
+    "location": "Westminster, CO 80234",
+    "clearance": null,
+    "business_size": "SMALL",
+    "set_asides": [
+      "SB"
+    ],
+    "naics": [
+      "541511",
+      "541512",
+      "541519",
+      "511210",
+      "518210",
+      "541330",
+      "541715"
+    ],
+    "skills": [
+      "python",
+      "typescript",
+      "scala",
+      "rust",
+      "kubernetes",
+      "docker",
+      "llm",
+      "gpu",
+      "spark",
+      "kafka",
+      "aws",
+      "elasticsearch",
+      "ai",
+      "machine learning",
+      "data engineering"
+    ]
+  },
+  "profiles": {
+    "default": {
+      "name": "Default Tech Sniper",
+      "queries": [
+        "software development",
+        "data engineering",
+        "kubernetes",
+        "artificial intelligence",
+        "machine learning",
+        "LLM",
+        "cloud infrastructure",
+        "cybersecurity"
+      ],
+      "naics": [
+        "541511",
+        "541512",
+        "541519",
+        "511210",
+        "518210",
+        "541330",
+        "541715"
+      ],
+      "set_asides": [
+        "SB"
+      ],
+      "clearance_required": false,
+      "location_boost": [
+        "CO",
+        "UT",
+        "WY",
+        "NM",
+        "AZ",
+        "KS",
+        "NE",
+        "OK",
+        "TX"
+      ],
+      "max_results_per_query": 25,
+      "sources": [
+        "sam_api",
+        "sam_curl_post",
+        "cached"
+      ],
+      "chaos_factor": 0.0
+    },
+    "emergent": {
+      "name": "Emergent Anomaly Hunter",
+      "queries": [
+        "prototype",
+        "pilot program",
+        "proof of concept",
+        "research and development",
+        "sole source",
+        "urgent requirement",
+        "limited competition"
+      ],
+      "naics": [
+        "541511",
+        "541512",
+        "541519",
+        "541330",
+        "541710",
+        "541712"
+      ],
+      "set_asides": [
+        "SB",
+        "8A",
+        "HUBZONE",
+        "SDVOSB"
+      ],
+      "clearance_required": false,
+      "location_boost": [
+        "CO",
+        "UT",
+        "WY",
+        "NM"
+      ],
+      "max_results_per_query": 50,
+      "sources": [
+        "sam_api",
+        "sam_curl_post",
+        "cached"
+      ],
+      "chaos_factor": 0.3
+    },
+    "chaos": {
+      "name": "Chaos Engineering",
+      "queries": [],
+      "naics": [
+        "541511",
+        "541512",
+        "541519"
+      ],
+      "set_asides": [
+        "SB"
+      ],
+      "clearance_required": false,
+      "location_boost": [],
+      "max_results_per_query": 25,
+      "sources": [
+        "sam_api",
+        "sam_curl_post",
+        "github_code",
+        "cached"
+      ],
+      "chaos_factor": 1.0,
+      "obtuse_headers": true,
+      "method_rotation": [
+        "GET",
+        "POST",
+        "HEAD"
+      ]
+    },
+    "uap_drone": {
+      "name": "UAP/Drone Pipeline",
+      "queries": [
+        "UAP",
+        "drone",
+        "counter-UAS",
+        "unmanned",
+        "aerial",
+        "UAS",
+        "UAV"
+      ],
+      "naics": [
+        "541511",
+        "541512",
+        "541330",
+        "541715"
+      ],
+      "set_asides": [
+        "SB"
+      ],
+      "clearance_required": false,
+      "location_boost": [
+        "CO",
+        "UT",
+        "NM"
+      ],
+      "max_results_per_query": 25,
+      "sources": [
+        "sam_api",
+        "sam_curl_post",
+        "cached"
+      ],
+      "chaos_factor": 0.1
+    },
+    "small_biz_gold": {
+      "name": "Small Business Gold Rush",
+      "queries": [
+        "small business set-aside",
+        "8(a)",
+        "HUBZone",
+        "SDVOSB",
+        "WOSB",
+        "sole source small business"
+      ],
+      "naics": [
+        "541511",
+        "541512",
+        "541519",
+        "511210",
+        "518210"
+      ],
+      "set_asides": [
+        "SB",
+        "8A",
+        "HUBZONE",
+        "SDVOSB",
+        "WOSB"
+      ],
+      "clearance_required": false,
+      "location_boost": [
+        "CO"
+      ],
+      "max_results_per_query": 50,
+      "sources": [
+        "sam_api",
+        "sam_curl_post",
+        "cached"
+      ],
+      "chaos_factor": 0.0
+    },
+    "bio_agri": {
+      "name": "BioPreferred Agriculture",
+      "queries": [
+        "BioPreferred",
+        "biobased",
+        "agricultural",
+        "farm",
+        "USDA",
+        "sustainable agriculture"
+      ],
+      "naics": [
+        "111",
+        "112",
+        "115",
+        "311",
+        "325"
+      ],
+      "set_asides": [
+        "SB"
+      ],
+      "clearance_required": false,
+      "location_boost": [
+        "CO",
+        "KS",
+        "NE",
+        "OK",
+        "TX"
+      ],
+      "max_results_per_query": 25,
+      "sources": [
+        "sam_api",
+        "sam_curl_post",
+        "cached"
+      ],
+      "chaos_factor": 0.0
+    },
+    "energy_grid": {
+      "name": "Energy Grid Modernization",
+      "queries": [
+        "smart grid",
+        "renewable energy",
+        "solar",
+        "battery storage",
+        "microgrid",
+        "DOE",
+        "NREL"
+      ],
+      "naics": [
+        "221",
+        "335",
+        "541330",
+        "541710"
+      ],
+      "set_asides": [
+        "SB"
+      ],
+      "clearance_required": false,
+      "location_boost": [
+        "CO",
+        "NM",
+        "WY"
+      ],
+      "max_results_per_query": 25,
+      "sources": [
+        "sam_api",
+        "sam_curl_post",
+        "cached"
+      ],
+      "chaos_factor": 0.0
+    },
+    "health_it": {
+      "name": "Health IT & Telemedicine",
+      "queries": [
+        "telehealth",
+        "EHR",
+        "health IT",
+        "FHIR",
+        "HIPAA",
+        "VA",
+        "CMS"
+      ],
+      "naics": [
+        "541511",
+        "541512",
+        "541519",
+        "621111"
+      ],
+      "set_asides": [
+        "SB",
+        "SDVOSB"
+      ],
+      "clearance_required": false,
+      "location_boost": [
+        "CO",
+        "UT",
+        "NM",
+        "AZ"
+      ],
+      "max_results_per_query": 25,
+      "sources": [
+        "sam_api",
+        "sam_curl_post",
+        "cached"
+      ],
+      "chaos_factor": 0.0
+    }
+  },
+  "routes": {
+    "sam_api": {
+      "enabled": true,
+      "timeout": 10,
+      "priority": 1
+    },
+    "sam_curl_post": {
+      "enabled": true,
+      "timeout": 10,
+      "priority": 2
+    },
+    "github_code": {
+      "enabled": true,
+      "timeout": 8,
+      "priority": 3
+    },
+    "usaspending": {
+      "enabled": false,
+      "timeout": 10,
+      "priority": 4
+    },
+    "cached": {
+      "enabled": true,
+      "timeout": 0,
+      "priority": 99
+    }
+  },
+  "benchmarks": [],
+  "iterations": 5,
+  "github_pat": "***REDACTED***"
+}
