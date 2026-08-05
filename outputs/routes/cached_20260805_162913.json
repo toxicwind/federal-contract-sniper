@@ -1,0 +1,2434 @@
+{
+  "query": "VA",
+  "result": {
+    "ok": true,
+    "route": "cached",
+    "results": [
+      {
+        "isCanceled": false,
+        "_rScore": 23,
+        "_type": "opportunity",
+        "publishDate": "2020-06-22T14:46:56-04:00",
+        "isActive": false,
+        "title": "6515--TULSA Activation Surgical Boom",
+        "type": {
+          "code": "k",
+          "value": "Combined Synopsis/Solicitation"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2020-06-22T14:46:56.241-04:00",
+            "content": "Request for Quote (RFQ) #: 36C25920Q0452\nTulsa Activation Brand Name or Equal Surgical Boom\n\nThis is a combined synopsis/solicitation for Brand Name or Equal to Olympus commercial items prepared in accordance with the format in FAR Subpart 12.6, as s"
+          }
+        ],
+        "solicitationNumber": "36C25920Q0452",
+        "responseDate": "2020-07-10T15:00:00-04:00",
+        "parentNoticeId": null,
+        "award": {
+          "awardee": {
+            "ueiSAM": null,
+            "name": null
+          }
+        },
+        "responseTimeZone": "America/Denver",
+        "modifiedDate": "2020-07-13T23:55:40-04:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100006568",
+            "address": {
+              "zip": null,
+              "country": "US",
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "VETERANS AFFAIRS, DEPARTMENT OF",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000214",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "VETERANS AFFAIRS, DEPARTMENT OF",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100176750",
+            "address": {
+              "zip": "80111",
+              "country": "USA",
+              "city": "Greenwood Village",
+              "streetAddress": "6162 S WILLOW DR",
+              "streetAddress2": "SUITE 300",
+              "state": "CO"
+            },
+            "level": 3,
+            "name": "NETWORK CONTRACT OFFICE 19 (36C259)",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "ca4aacc2c8fc49e68b0ef0f5cae673b0",
+        "responseDateActual": "2020-07-10T13:00:00-06:00",
+        "modifications": {
+          "count": 0
+        },
+        "_source_query": "UAP",
+        "_enriched": true,
+        "_enrichment": {
+          "naics": [],
+          "set_aside": "None",
+          "dates": {
+            "posted": "",
+            "response_deadline": "",
+            "archive": "",
+            "award": ""
+          },
+          "contacts": [],
+          "place": {
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+          },
+          "tags": [],
+          "related": [],
+          "enriched_at": "2026-08-05T14:08:08.715689"
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 84,
+        "_type": "opportunity",
+        "publishDate": "2009-08-20T08:53:40-04:00",
+        "isActive": false,
+        "title": "Non-native Invasive Species Treatment",
+        "type": {
+          "code": "a",
+          "value": "Award Notice"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2019-06-28T22:53:04-04:00",
+            "content": "The intent of this contract is to treat approximately 80 acres of non-native invasive plant infestations on National Forest System land at locations in St. Louis, Lake, and Cook Counties."
+          }
+        ],
+        "solicitationNumber": "AG-4419-S-09-0011",
+        "responseDate": null,
+        "parentNoticeId": null,
+        "award": {
+          "awardee": {
+            "ueiSAM": null,
+            "name": "UAP Timberland"
+          }
+        },
+        "responseTimeZone": null,
+        "modifiedDate": "2019-06-28T22:53:04-04:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100006809",
+            "address": {
+              "zip": null,
+              "country": "US",
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "AGRICULTURE, DEPARTMENT OF",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "100013241",
+            "address": {
+              "zip": null,
+              "country": "US",
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "FOREST SERVICE",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100165351",
+            "address": {
+              "zip": "30309",
+              "country": "USA",
+              "city": "Washington",
+              "streetAddress": "SPOC EAST",
+              "streetAddress2": "1720 PEACHTREE ROAD NW",
+              "state": "GA"
+            },
+            "level": 3,
+            "name": "USDA FOREST SERVICE-SPOC EAST",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "59ba2dbbd04a10cb01fd00a4ffd3030d",
+        "responseDateActual": null,
+        "modifications": {
+          "count": 0
+        },
+        "_source_query": "UAP",
+        "_enriched": true,
+        "_enrichment": {
+          "naics": [],
+          "set_aside": "None",
+          "dates": {
+            "posted": "",
+            "response_deadline": "",
+            "archive": "",
+            "award": ""
+          },
+          "contacts": [],
+          "place": {
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+          },
+          "tags": [],
+          "related": [],
+          "enriched_at": "2026-08-05T14:08:08.717223"
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 80,
+        "_type": "opportunity",
+        "publishDate": "2013-08-20T09:44:43-04:00",
+        "isActive": false,
+        "title": "58--4 sets of tactical seismic/acoustic sensors (Battlefield Anti-Instrusion System (BAIS) or equivalent), plus training, in fulfillment of requirements from Foreign Military Sales case H8-B-UAP, for Hungary.",
+        "type": {
+          "code": "o",
+          "value": "Solicitation"
+        },
+        "descriptions": [],
+        "solicitationNumber": "W15P7T13RD048",
+        "responseDate": "2013-08-30T01:00:00-04:00",
+        "parentNoticeId": "f820cd62af5a016de177434851c92a71",
+        "award": {
+          "awardee": {
+            "ueiSAM": null,
+            "name": null
+          }
+        },
+        "responseTimeZone": null,
+        "modifiedDate": "2013-09-04T04:36:21-04:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100000000",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "DEPT OF DEFENSE",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000201",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "DEPT OF THE ARMY",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100000117",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 3,
+            "name": "AMC",
+            "type": "MAJOR COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "100007305",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 4,
+            "name": "ACC",
+            "type": "SUB COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "500038569",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 5,
+            "name": "ACC-CTRS",
+            "type": "SUB COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "500038570",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 6,
+            "name": "ACC-APG",
+            "type": "SUB COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "500043793",
+            "address": {
+              "zip": "21005-5001",
+              "country": "USA",
+              "city": "ABERDEEN PROVING GROU",
+              "streetAddress": "6515 INTEGRITY COURT",
+              "streetAddress2": null,
+              "state": "MD"
+            },
+            "level": 7,
+            "name": "W6QK ACC-APG",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "23f9a092f84ee46aaf341cf88c0e61cd",
+        "responseDateActual": "2013-08-30T00:00:00-05:00",
+        "modifications": {
+          "count": 1
+        },
+        "_source_query": "UAP",
+        "_enriched": true,
+        "_enrichment": {
+          "naics": [],
+          "set_aside": "None",
+          "dates": {
+            "posted": "",
+            "response_deadline": "",
+            "archive": "",
+            "award": ""
+          },
+          "contacts": [],
+          "place": {
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+          },
+          "tags": [
+            "uap"
+          ],
+          "related": [
+            {
+              "id": "W91CRB-26-R-DRNE",
+              "title": "Skydio X10 Drone Starter Kit, NightSense Infrared Attachment",
+              "score": 7,
+              "source": "drone"
+            }
+          ],
+          "enriched_at": "2026-08-05T14:08:08.737491"
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 78,
+        "_type": "opportunity",
+        "publishDate": "2010-03-25T11:42:51-04:00",
+        "isActive": false,
+        "title": "RECOVERY--99--PROJECT NUMBER 15170, Removal Of Aquatic Growth, FL",
+        "type": {
+          "code": "p",
+          "value": "Presolicitation"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2010-05-24T04:37:06-04:00",
+            "content": "RECOVERY - PER FAR 5.7 THIS NOTICE IS PROVIDED FOR INFORMATION PURPOSES ONLY; THEREFORE FAR 5.203 DOES NOT APPLY. THIS OPPORTUNITY IS AVAILABLE ONLY TO CONTRACTOR(S) UNDER THE CURRENT CONTRACT NUMBER(S): UAP Distribution, Inc, W912EP-08-D-0014, Herbi"
+          }
+        ],
+        "solicitationNumber": "W912EP-08-D-0014-0004",
+        "responseDate": "2010-03-25T01:00:00-04:00",
+        "parentNoticeId": null,
+        "award": {
+          "awardee": {
+            "ueiSAM": null,
+            "name": null
+          }
+        },
+        "responseTimeZone": null,
+        "modifiedDate": "2010-05-24T04:37:06-04:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100000000",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "DEPT OF DEFENSE",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000201",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "DEPT OF THE ARMY",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100000026",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 3,
+            "name": "USACE",
+            "type": "MAJOR COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "100074191",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 4,
+            "name": "SAD",
+            "type": "SUB COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "100221797",
+            "address": {
+              "zip": "32207-8175",
+              "country": "USA",
+              "city": "JACKSONVILLE",
+              "streetAddress": "KO CONTRACTING DIVISION",
+              "streetAddress2": "701 SAN MARCO BLVD",
+              "state": "FL"
+            },
+            "level": 5,
+            "name": "US ARMY ENGINEER DISTRICT JACKSONVI",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "ef3552142b72f44e6bbd883c9456b94d",
+        "responseDateActual": "2010-03-25T00:00:00-05:00",
+        "modifications": {
+          "count": 0
+        },
+        "_source_query": "UAP",
+        "_enriched": true,
+        "_enrichment": {
+          "naics": [],
+          "set_aside": "None",
+          "dates": {
+            "posted": "",
+            "response_deadline": "",
+            "archive": "",
+            "award": ""
+          },
+          "contacts": [],
+          "place": {
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+          },
+          "tags": [],
+          "related": [],
+          "enriched_at": "2026-08-05T14:08:08.750307"
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 84,
+        "_type": "opportunity",
+        "publishDate": "2008-07-09T10:47:02-04:00",
+        "isActive": false,
+        "title": "68--Various herbicides",
+        "type": {
+          "code": "a",
+          "value": "Award Notice"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2009-07-09T04:35:12-04:00",
+            "content": "No Description Provided"
+          }
+        ],
+        "solicitationNumber": "801818Q308",
+        "responseDate": null,
+        "parentNoticeId": null,
+        "award": {
+          "awardee": {
+            "ueiSAM": null,
+            "name": "UAP DISTRIBUTION, INC,7251 W 4TH ST ,GREELEY CO 806349763"
+          }
+        },
+        "responseTimeZone": null,
+        "modifiedDate": "2009-07-09T04:35:12-04:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100010393",
+            "address": {
+              "zip": null,
+              "country": "US",
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "INTERIOR, DEPARTMENT OF THE",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "100156642",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "U.S. FISH AND WILDLIFE SERVICE",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100175959",
+            "address": {
+              "zip": "22041",
+              "country": "USA",
+              "city": "FALLS CHURCH",
+              "streetAddress": "5275 LEESBURG PIKE",
+              "streetAddress2": null,
+              "state": "VA"
+            },
+            "level": 3,
+            "name": "FWS HEADQUARTERS",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "3e3086a67e0e4b34dc91915d5b4cd28a",
+        "responseDateActual": null,
+        "modifications": {
+          "count": 0
+        },
+        "_source_query": "UAP",
+        "_enriched": true,
+        "_enrichment": {
+          "naics": [],
+          "set_aside": "None",
+          "dates": {
+            "posted": "",
+            "response_deadline": "",
+            "archive": "",
+            "award": ""
+          },
+          "contacts": [],
+          "place": {
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+          },
+          "tags": [],
+          "related": [],
+          "enriched_at": "2026-08-05T14:08:08.760829"
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 39,
+        "_type": "opportunity",
+        "publishDate": "2026-08-04T19:04:02+00:00",
+        "isActive": true,
+        "title": "Pre-Solicitation Synopsis for Overhaul of the Hydraulic Valve",
+        "type": {
+          "code": "p",
+          "value": "Presolicitation"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2026-08-04T19:04:02.289+00:00",
+            "content": "<p>The contractor shall furnish all services, facilities, labor, parts, materials, equipment, tools, and data (other than Government Furnished Property), necessary to accomplish the Overhaul of the following assets:</p>\n\n<p><br />\nNOMENCLATURE: Hydra"
+          }
+        ],
+        "solicitationNumber": "W58RGZ-26-B-0024",
+        "responseDate": "2026-08-19T22:00:00+00:00",
+        "parentNoticeId": null,
+        "award": {
+          "awardee": {
+            "ueiSAM": null,
+            "name": null
+          }
+        },
+        "responseTimeZone": "America/Chicago",
+        "modifiedDate": "2026-08-04T19:04:02+00:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100000000",
+            "code": "9700",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "DEPT OF DEFENSE",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000201",
+            "code": "2100",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "DEPT OF THE ARMY",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100000117",
+            "code": "AMC",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 3,
+            "name": "AMC",
+            "type": "MAJOR COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "100007305",
+            "code": "ACC",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 4,
+            "name": "ACC",
+            "type": "SUB COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "500038569",
+            "code": "ACC-CTRS",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 5,
+            "name": "ACC-CTRS",
+            "type": "SUB COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "500038572",
+            "code": "ACC RSA",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 6,
+            "name": "ACC RSA",
+            "type": "SUB COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "500045573",
+            "code": "W58RGZ",
+            "address": {
+              "zip": "35898-0000",
+              "country": "USA",
+              "city": "REDSTONE ARSENAL",
+              "streetAddress": "AMCOM CONTRACTING CENTER AIR",
+              "streetAddress2": "SPARKMAN CIR  BLDG 5303",
+              "state": "AL"
+            },
+            "level": 7,
+            "name": "W6QK ACC-RSA",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "38278d22d0ee45bf90bd64d2b5d02bea",
+        "responseDateActual": "2026-08-19T17:00:00-05:00",
+        "modifications": {
+          "count": 0
+        },
+        "_source_query": "cybersecurity",
+        "_enriched": true,
+        "_enrichment": {
+          "naics": [],
+          "set_aside": "None",
+          "dates": {
+            "posted": "",
+            "response_deadline": "",
+            "archive": "",
+            "award": ""
+          },
+          "contacts": [],
+          "place": {
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+          },
+          "tags": [],
+          "related": [],
+          "enriched_at": "2026-08-05T14:08:08.811241"
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 82,
+        "_type": "opportunity",
+        "publishDate": "2026-08-04T16:28:03+00:00",
+        "isActive": true,
+        "title": "Notification of Award of Sole Source Bridge Action_Cybersecurity and Privacy Program Support Services",
+        "type": {
+          "code": "u",
+          "value": "Justification"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2026-08-04T16:28:03.312+00:00",
+            "content": "<p>In strict compliance with GSAR 538.7104-3(b)(ii), this notice is being made publicly available within 14 days after the award of the modification to ensure procedural transparency under GSA&rsquo;s modernized FSS ordering procedures.&nbsp; This ac"
+          }
+        ],
+        "solicitationNumber": "IT-1",
+        "responseDate": null,
+        "parentNoticeId": "b7aabe4acf78443aa7b1baf04b0837ac",
+        "award": {
+          "awardee": {
+            "ueiSAM": null,
+            "name": null
+          }
+        },
+        "responseTimeZone": null,
+        "modifiedDate": "2026-08-04T16:28:03+00:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100000136",
+            "code": "6900",
+            "address": {
+              "zip": null,
+              "country": "US",
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "TRANSPORTATION, DEPARTMENT OF",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "100076812",
+            "code": "6930",
+            "address": {
+              "zip": null,
+              "country": "US",
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "FEDERAL RAILROAD ADMINISTRATION",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100162936",
+            "code": "693JJ6",
+            "address": {
+              "zip": "20590",
+              "country": "USA",
+              "city": "WASHINGTON",
+              "streetAddress": "OFC OF ACQUISITIONS, W BLDG, 3RD FL",
+              "streetAddress2": "1200 NEW JERSEY AVE, SE,",
+              "state": "DC"
+            },
+            "level": 3,
+            "name": "693JJ6 FEDERAL RAILROAD ADMIN",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "2a9ea604d67044d69b6f6a18ce611501",
+        "responseDateActual": null,
+        "modifications": {
+          "count": 1
+        },
+        "_source_query": "cybersecurity",
+        "_enriched": true,
+        "_enrichment": {
+          "naics": [],
+          "set_aside": "None",
+          "dates": {
+            "posted": "",
+            "response_deadline": "",
+            "archive": "",
+            "award": ""
+          },
+          "contacts": [],
+          "place": {
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+          },
+          "tags": [
+            "cyber",
+            "sole_source"
+          ],
+          "related": [
+            {
+              "id": "M67854-26-I-0225",
+              "title": "Notice of Intent to Sole Source and Sources Sought: Counter-",
+              "score": 4,
+              "source": "unmanned"
+            },
+            {
+              "id": "W9132V-21-N-9967",
+              "title": "Notice of Intent to Sole Source U.S Army compliant sUAS fixe",
+              "score": 4,
+              "source": "counter_UAS"
+            }
+          ],
+          "enriched_at": "2026-08-05T14:08:08.821156"
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 20,
+        "_type": "opportunity",
+        "publishDate": "2026-08-04T08:28:30+00:00",
+        "isActive": true,
+        "title": "VALVE,REGULATING,FL",
+        "type": {
+          "code": "o",
+          "value": "Solicitation"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2026-08-04T08:28:30.406+00:00",
+            "content": "CONTACT INFORMATION|4|N713.26|HKA|(771) 229-1473|JOSEPH.D.WEAVER22.CIV@US.NAVY.MIL|\rITEM UNIQUE IDENTIFICATION AND VALUATION (JAN 2023)|19||||||||||||||||||||\rINSPECTION OF SUPPLIES--FIXED-PRICE (AUG 1996)|2|||\rWIDE AREA WORKFLOW PAYMENT INSTRUCTIONS"
+          }
+        ],
+        "solicitationNumber": "N0010426QLC38",
+        "responseDate": "2026-09-03T20:30:00+00:00",
+        "parentNoticeId": null,
+        "award": {
+          "awardee": {
+            "ueiSAM": null,
+            "name": null
+          }
+        },
+        "responseTimeZone": "America/New_York",
+        "modifiedDate": "2026-08-04T08:28:30+00:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100000000",
+            "code": "9700",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "DEPT OF DEFENSE",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000188",
+            "code": "1700",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "DEPT OF THE NAVY",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100000064",
+            "code": "NAVSUP",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 3,
+            "name": "NAVSUP",
+            "type": "MAJOR COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "100006748",
+            "code": "NAVSUP WSS",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 4,
+            "name": "NAVSUP WEAPON SYSTEMS SUPPORT",
+            "type": "SUB COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "100006822",
+            "code": "NAVSUP WSS MECH",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 5,
+            "name": "NAVSUP WSS MECHANICSBURG",
+            "type": "SUB COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "500021097",
+            "code": "N00104",
+            "address": {
+              "zip": "17050-0788",
+              "country": "USA",
+              "city": "MECHANICSBURG",
+              "streetAddress": "P O BOX 2020",
+              "streetAddress2": "5450 CARLISLE PIKE",
+              "state": "PA"
+            },
+            "level": 6,
+            "name": "NAVSUP WEAPON SYSTEMS SUPPORT MECH",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "dd9763913c78478c9ff4c08e68a0efb0",
+        "responseDateActual": "2026-09-03T16:30:00-04:00",
+        "modifications": {
+          "count": 0
+        },
+        "_source_query": "cybersecurity",
+        "_enriched": true,
+        "_enrichment": {
+          "naics": [],
+          "set_aside": "None",
+          "dates": {
+            "posted": "",
+            "response_deadline": "",
+            "archive": "",
+            "award": ""
+          },
+          "contacts": [],
+          "place": {
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+          },
+          "tags": [],
+          "related": [],
+          "enriched_at": "2026-08-05T14:08:08.862265"
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 13,
+        "_type": "opportunity",
+        "publishDate": "2026-08-04T07:38:57+00:00",
+        "isActive": true,
+        "title": "VALVE,GLOBE",
+        "type": {
+          "code": "o",
+          "value": "Solicitation"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2026-08-04T07:38:57.416+00:00",
+            "content": "ITEM UNIQUE IDENTIFICATION AND VALUATION (JAN 2023)|19||||||||||||||||||||\rHIGHER-LEVEL CONTRACT QUALITY REQUIREMENT (DEC 2014)|1|MIL-I-45208|\rINSPECTION OF SUPPLIES--FIXED-PRICE (AUG 1996)|2|||\rINSPECTION AND ACCEPTANCE - SHORT VERSION|8|X||X||||||\r"
+          }
+        ],
+        "solicitationNumber": "N0010426QEB65",
+        "responseDate": "2026-09-03T20:30:00+00:00",
+        "parentNoticeId": null,
+        "award": {
+          "awardee": {
+            "ueiSAM": null,
+            "name": null
+          }
+        },
+        "responseTimeZone": "America/New_York",
+        "modifiedDate": "2026-08-04T07:38:57+00:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100000000",
+            "code": "9700",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "DEPT OF DEFENSE",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000188",
+            "code": "1700",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "DEPT OF THE NAVY",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100000064",
+            "code": "NAVSUP",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 3,
+            "name": "NAVSUP",
+            "type": "MAJOR COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "100006748",
+            "code": "NAVSUP WSS",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 4,
+            "name": "NAVSUP WEAPON SYSTEMS SUPPORT",
+            "type": "SUB COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "100006822",
+            "code": "NAVSUP WSS MECH",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 5,
+            "name": "NAVSUP WSS MECHANICSBURG",
+            "type": "SUB COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "500021097",
+            "code": "N00104",
+            "address": {
+              "zip": "17050-0788",
+              "country": "USA",
+              "city": "MECHANICSBURG",
+              "streetAddress": "P O BOX 2020",
+              "streetAddress2": "5450 CARLISLE PIKE",
+              "state": "PA"
+            },
+            "level": 6,
+            "name": "NAVSUP WEAPON SYSTEMS SUPPORT MECH",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "eaeec134e1054f8bb54c3862668195d8",
+        "responseDateActual": "2026-09-03T16:30:00-04:00",
+        "modifications": {
+          "count": 0
+        },
+        "_source_query": "cybersecurity",
+        "_enriched": true,
+        "_enrichment": {
+          "naics": [],
+          "set_aside": "None",
+          "dates": {
+            "posted": "",
+            "response_deadline": "",
+            "archive": "",
+            "award": ""
+          },
+          "contacts": [],
+          "place": {
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+          },
+          "tags": [],
+          "related": [],
+          "enriched_at": "2026-08-05T14:08:08.882542"
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 91,
+        "_type": "opportunity",
+        "publishDate": "2026-07-13T23:38:23+00:00",
+        "isActive": false,
+        "title": "S201--Building Drone Cleaning Service  VA Loma Linda Health Care Systems",
+        "type": {
+          "code": "r",
+          "value": "Sources Sought"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2026-07-13T23:38:23.366+00:00",
+            "content": "This is a SOURCES SOUGHT ANNOUNCEMENT ONLY.\u00c2\u00a0 It is neither a solicitation announcement nor a request for proposals or quotes and does not\u00c2\u00a0obligate\u00c2\u00a0the Government to award a contract.\u00c2\u00a0 Requests for a solicitation will not receive a response. Respo"
+          }
+        ],
+        "solicitationNumber": "36C26226Q1150",
+        "responseDate": "2026-07-20T20:00:00+00:00",
+        "parentNoticeId": null,
+        "award": {
+          "awardee": {
+            "ueiSAM": null,
+            "name": null
+          }
+        },
+        "responseTimeZone": "America/New_York",
+        "modifiedDate": "2026-08-04T05:06:30+00:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100006568",
+            "code": "3600",
+            "address": {
+              "zip": null,
+              "country": "US",
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "VETERANS AFFAIRS, DEPARTMENT OF",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000214",
+            "code": "3600",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "VETERANS AFFAIRS, DEPARTMENT OF",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100173469",
+            "code": "36C262",
+            "address": {
+              "zip": "90815",
+              "country": "USA",
+              "city": "LONG BEACH",
+              "streetAddress": "4811 AIRPORT PLAZA DRIVE",
+              "streetAddress2": "SUITE 600",
+              "state": "CA"
+            },
+            "level": 3,
+            "name": "262-NETWORK CONTRACT OFFICE 22 (36C262)",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "b257aaf62a7b4198baa1b81fd0200810",
+        "responseDateActual": "2026-07-20T16:00:00-04:00",
+        "modifications": {
+          "count": 0
+        },
+        "_source_query": "drone",
+        "_enriched": true,
+        "_enrichment": {
+          "naics": [],
+          "set_aside": "None",
+          "dates": {
+            "posted": "",
+            "response_deadline": "",
+            "archive": "",
+            "award": ""
+          },
+          "contacts": [],
+          "place": {
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+          },
+          "tags": [
+            "drone"
+          ],
+          "related": [],
+          "enriched_at": "2026-08-05T14:08:08.935934"
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 51,
+        "_type": "opportunity",
+        "publishDate": "2026-07-28T20:38:07+00:00",
+        "isActive": true,
+        "title": "Z1QA--Requirement- Power Wash South and East Tower-Miami VAMC",
+        "type": {
+          "code": "r",
+          "value": "Sources Sought"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2026-07-28T20:38:07.491+00:00",
+            "content": "Page 1 of 1\nThis is a sources sought announcement ONLY and is NOT a solicitation for proposals or quotes. The information gathered from this request for information (RFI) is for planning purposes only. The Government is not obligated, nor shall it pa"
+          }
+        ],
+        "solicitationNumber": "36C24826Q1037",
+        "responseDate": "2026-08-04T19:00:00+00:00",
+        "parentNoticeId": null,
+        "award": {
+          "awardee": {
+            "ueiSAM": null,
+            "name": null
+          }
+        },
+        "responseTimeZone": "America/New_York",
+        "modifiedDate": "2026-07-28T20:38:07+00:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100006568",
+            "code": "3600",
+            "address": {
+              "zip": null,
+              "country": "US",
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "VETERANS AFFAIRS, DEPARTMENT OF",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000214",
+            "code": "3600",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "VETERANS AFFAIRS, DEPARTMENT OF",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100167097",
+            "code": "36C248",
+            "address": {
+              "zip": "33637",
+              "country": "USA",
+              "city": "TAMPA",
+              "streetAddress": "8875 HIDDEN RIVER PARKWAY",
+              "streetAddress2": null,
+              "state": "FL"
+            },
+            "level": 3,
+            "name": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "fde66f3573174d3fac4616e60c38db7e",
+        "responseDateActual": "2026-08-04T15:00:00-04:00",
+        "modifications": {
+          "count": 0
+        },
+        "_source_query": "drone",
+        "_enriched": true,
+        "_enrichment": {
+          "naics": [],
+          "set_aside": "None",
+          "dates": {
+            "posted": "",
+            "response_deadline": "",
+            "archive": "",
+            "award": ""
+          },
+          "contacts": [],
+          "place": {
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+          },
+          "tags": [],
+          "related": [],
+          "enriched_at": "2026-08-05T14:08:08.980949"
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 41,
+        "_type": "opportunity",
+        "publishDate": "2026-07-24T16:36:00+00:00",
+        "isActive": true,
+        "title": "R408--Innovation Portfolio Support Services",
+        "type": {
+          "code": "s",
+          "value": "Special Notice"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2026-07-24T16:36:00.917+00:00",
+            "content": "Notice Type:  Special Notice of Intent to Sole Source\n\nThis is a SPECIAL NOTICE ANNOUNCEMENT ONLY.  The Department of Veteran Affairs (VA), VISN 8 Network Contracting Office, James A. Haley Veterans  Hospital (JAHVH), 13,000 Bruce B. Downs Blvd., Tam"
+          }
+        ],
+        "solicitationNumber": "36C24826Q1015",
+        "responseDate": "2026-07-31T16:00:00+00:00",
+        "parentNoticeId": null,
+        "award": {
+          "awardee": {
+            "ueiSAM": null,
+            "name": null
+          }
+        },
+        "responseTimeZone": "America/New_York",
+        "modifiedDate": "2026-07-24T16:36:00+00:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100006568",
+            "code": "3600",
+            "address": {
+              "zip": null,
+              "country": "US",
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "VETERANS AFFAIRS, DEPARTMENT OF",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000214",
+            "code": "3600",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "VETERANS AFFAIRS, DEPARTMENT OF",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100167097",
+            "code": "36C248",
+            "address": {
+              "zip": "33637",
+              "country": "USA",
+              "city": "TAMPA",
+              "streetAddress": "8875 HIDDEN RIVER PARKWAY",
+              "streetAddress2": null,
+              "state": "FL"
+            },
+            "level": 3,
+            "name": "248-NETWORK CONTRACT OFFICE 8 (36C248)",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "0d001379b63445408fc97c02183495f2",
+        "responseDateActual": "2026-07-31T12:00:00-04:00",
+        "modifications": {
+          "count": 0
+        },
+        "_source_query": "drone",
+        "_enriched": true,
+        "_enrichment": {
+          "naics": [],
+          "set_aside": "None",
+          "dates": {
+            "posted": "",
+            "response_deadline": "",
+            "archive": "",
+            "award": ""
+          },
+          "contacts": [],
+          "place": {
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+          },
+          "tags": [],
+          "related": [],
+          "enriched_at": "2026-08-05T14:08:09.002066"
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 22,
+        "_type": "opportunity",
+        "publishDate": "2026-07-06T11:54:34+00:00",
+        "isActive": false,
+        "title": "VALVE,PRESSURE REDUCING",
+        "type": {
+          "code": "k",
+          "value": "Combined Synopsis/Solicitation"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2026-07-06T11:54:34.099+00:00",
+            "content": "<p></p>\n\n<p>The United States Coast Guard Surface Forces Logistics Center has a &nbsp;&nbsp;&nbsp;requirement and requesting quotations for the following part:</p>\n\n<p></p>\n\n<p>Item 1)</p>\n\n<p>4820 01-644-7914</p>\n\n<p>VALVE,PRESSURE REDUCING</p>\n\n<p>"
+          }
+        ],
+        "solicitationNumber": "70Z08026QAG172",
+        "responseDate": "2026-07-06T13:00:00+00:00",
+        "parentNoticeId": "61ac9f58d08c4c9285592c9b0ca83106",
+        "award": {
+          "awardee": {
+            "ueiSAM": null,
+            "name": null
+          }
+        },
+        "responseTimeZone": "America/New_York",
+        "modifiedDate": "2026-07-22T03:55:45+00:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100011942",
+            "code": "7000",
+            "address": {
+              "zip": null,
+              "country": "US",
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "HOMELAND SECURITY, DEPARTMENT OF",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "100012855",
+            "code": "7008",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "U.S. COAST GUARD",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100181484",
+            "code": "70Z080",
+            "address": {
+              "zip": "23510",
+              "country": "USA",
+              "city": "NORFOLK",
+              "streetAddress": "300 EAST MAIN ST, STE 950, VESS DIV",
+              "streetAddress2": null,
+              "state": "VA"
+            },
+            "level": 3,
+            "name": "SFLC PROCUREMENT BRANCH 1(00080)",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "ed08727196db412385a2a7e1fa703097",
+        "responseDateActual": "2026-07-06T09:00:00-04:00",
+        "modifications": {
+          "count": 1
+        },
+        "_source_query": "drone",
+        "_enriched": true,
+        "_enrichment": {
+          "naics": [],
+          "set_aside": "None",
+          "dates": {
+            "posted": "",
+            "response_deadline": "",
+            "archive": "",
+            "award": ""
+          },
+          "contacts": [],
+          "place": {
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+          },
+          "tags": [],
+          "related": [],
+          "enriched_at": "2026-08-05T14:08:09.017168"
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 23,
+        "_type": "opportunity",
+        "publishDate": "2026-07-13T23:38:23+00:00",
+        "isActive": false,
+        "title": "S201--Building Drone Cleaning Service  VA Loma Linda Health Care Systems",
+        "type": {
+          "code": "r",
+          "value": "Sources Sought"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2026-07-13T23:38:23.366+00:00",
+            "content": "This is a SOURCES SOUGHT ANNOUNCEMENT ONLY.\u00c2\u00a0 It is neither a solicitation announcement nor a request for proposals or quotes and does not\u00c2\u00a0obligate\u00c2\u00a0the Government to award a contract.\u00c2\u00a0 Requests for a solicitation will not receive a response. Respo"
+          }
+        ],
+        "solicitationNumber": "36C26226Q1150",
+        "responseDate": "2026-07-20T20:00:00+00:00",
+        "parentNoticeId": null,
+        "award": {
+          "awardee": {
+            "ueiSAM": null,
+            "name": null
+          }
+        },
+        "responseTimeZone": "America/New_York",
+        "modifiedDate": "2026-08-04T05:06:30+00:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100006568",
+            "code": "3600",
+            "address": {
+              "zip": null,
+              "country": "US",
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "VETERANS AFFAIRS, DEPARTMENT OF",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000214",
+            "code": "3600",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "VETERANS AFFAIRS, DEPARTMENT OF",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100173469",
+            "code": "36C262",
+            "address": {
+              "zip": "90815",
+              "country": "USA",
+              "city": "LONG BEACH",
+              "streetAddress": "4811 AIRPORT PLAZA DRIVE",
+              "streetAddress2": "SUITE 600",
+              "state": "CA"
+            },
+            "level": 3,
+            "name": "262-NETWORK CONTRACT OFFICE 22 (36C262)",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "b257aaf62a7b4198baa1b81fd0200810",
+        "responseDateActual": "2026-07-20T16:00:00-04:00",
+        "modifications": {
+          "count": 0
+        },
+        "_source_query": "unmanned",
+        "_enriched": true,
+        "_enrichment": {
+          "naics": [],
+          "set_aside": "None",
+          "dates": {
+            "posted": "",
+            "response_deadline": "",
+            "archive": "",
+            "award": ""
+          },
+          "contacts": [],
+          "place": {
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+          },
+          "tags": [
+            "drone"
+          ],
+          "related": [],
+          "enriched_at": "2026-08-05T14:08:09.061025"
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 20,
+        "_type": "opportunity",
+        "publishDate": "2026-07-31T11:34:51+00:00",
+        "isActive": true,
+        "title": "Sources Sought: Call For Technology Independent Verification &Validation (IV&V) 27-1: Spectrum Proof",
+        "type": {
+          "code": "r",
+          "value": "Sources Sought"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2026-07-31T11:34:51.18+00:00",
+            "content": "<p><strong>Sources Sought: Call For Technology Independent Verification &amp;Validation (IV&amp;V) 27-1: Spectrum Proof </strong></p>\n\n<p><strong>OPEN CALL for TECHNOLOGY</strong></p>\n\n<p>US Army V Corps, in partnership with the Defense Innovation Un"
+          }
+        ],
+        "solicitationNumber": "IVV271",
+        "responseDate": "2026-08-11T03:59:00+00:00",
+        "parentNoticeId": "65870599415744d7908aaca3e883aa9c",
+        "award": {
+          "awardee": {
+            "ueiSAM": null,
+            "name": null
+          }
+        },
+        "responseTimeZone": "America/New_York",
+        "modifiedDate": "2026-07-31T11:34:51+00:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100000000",
+            "code": "9700",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "DEPT OF DEFENSE",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000427",
+            "code": "97F5",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "WASHINGTON HEADQUARTERS SERVICES (WHS)",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100077251",
+            "code": "HQ0034",
+            "address": {
+              "zip": "22350",
+              "country": "USA",
+              "city": "WASHINGTON",
+              "streetAddress": "ACQUISITION DIRECTORATE",
+              "streetAddress2": "RPN STE 12063 1155 DEFENSE PENTAGON",
+              "state": "VA"
+            },
+            "level": 3,
+            "name": "WASHINGTON HEADQUARTERS SERVICES",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "fcb8f5f598ed408391ca92387722f71a",
+        "responseDateActual": "2026-08-10T23:59:00-04:00",
+        "modifications": {
+          "count": 2
+        },
+        "_source_query": "unmanned",
+        "_enriched": true,
+        "_enrichment": {
+          "naics": [],
+          "set_aside": "None",
+          "dates": {
+            "posted": "",
+            "response_deadline": "",
+            "archive": "",
+            "award": ""
+          },
+          "contacts": [],
+          "place": {
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+          },
+          "tags": [],
+          "related": [],
+          "enriched_at": "2026-08-05T14:08:09.091091"
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 39,
+        "_type": "opportunity",
+        "publishDate": "2026-07-23T05:43:45+00:00",
+        "isActive": true,
+        "title": "Professional services to provide exercise evaluation and exercise design support",
+        "type": {
+          "code": "o",
+          "value": "Solicitation"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2026-07-23T05:43:45.275+00:00",
+            "content": "<p>7/23/2026</p>\n\n<p>Amendment to adjust solicitation end date to 30 July 2026 at 09:00 AM Japan Standard Time (JST).</p>\n\n<p>7/23/2026</p>\n\n<p>1. Opportunity Overview &amp; Description of Requirement</p>\n\n<p>The Marine Corps Installations Pacific (M"
+          }
+        ],
+        "solicitationNumber": "M6740026Q0053",
+        "responseDate": "2026-07-29T23:00:00+00:00",
+        "parentNoticeId": "4c5ce61749bf432fa1470afe4caded10",
+        "award": {
+          "awardee": {
+            "ueiSAM": null,
+            "name": null
+          }
+        },
+        "responseTimeZone": "Asia/Tokyo",
+        "modifiedDate": "2026-07-23T05:43:45+00:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100000000",
+            "code": "9700",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "DEPT OF DEFENSE",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000188",
+            "code": "1700",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "DEPT OF THE NAVY",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100004479",
+            "code": "USMC",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 3,
+            "name": "USMC",
+            "type": "MAJOR COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "100004480",
+            "code": "MARCORP I&L",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 4,
+            "name": "MARCORP I&L",
+            "type": "SUB COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "100006566",
+            "code": "MCICOM",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 5,
+            "name": "MARINE CORPS INSTALLATIONS COMMAND",
+            "type": "SUB COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "100215411",
+            "code": "MCIPAC",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 6,
+            "name": "MCIPAC",
+            "type": "SUB COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "100242051",
+            "code": "M67400",
+            "address": {
+              "zip": "96379-5002",
+              "country": "USA",
+              "city": "FPO",
+              "streetAddress": "H&S BN MCB-CAMP BUTLER",
+              "streetAddress2": "MCB-CAMP BUTLER    UNIT 35002",
+              "state": "AP"
+            },
+            "level": 7,
+            "name": "COMMANDING OFFICER",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "9dfd913257bd438996c13678409420a7",
+        "responseDateActual": "2026-07-30T08:00:00+09:00",
+        "modifications": {
+          "count": 1
+        },
+        "_source_query": "counter_UAS",
+        "_enriched": true,
+        "_enrichment": {
+          "naics": [],
+          "set_aside": "None",
+          "dates": {
+            "posted": "",
+            "response_deadline": "",
+            "archive": "",
+            "award": ""
+          },
+          "contacts": [],
+          "place": {
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+          },
+          "tags": [],
+          "related": [],
+          "enriched_at": "2026-08-05T14:08:09.180781"
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 15,
+        "_type": "opportunity",
+        "publishDate": "2026-06-09T12:25:38+00:00",
+        "isActive": false,
+        "title": "Monitoring, Evaluation, Learning, and Other Special Services (MELOS) Sources Sought",
+        "type": {
+          "code": "r",
+          "value": "Sources Sought"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2026-06-09T12:25:38.231+00:00",
+            "content": "<p><strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;SOURCES SOUGHT NOTICE&nbsp;<br"
+          }
+        ],
+        "solicitationNumber": "19AQMM26R0264",
+        "responseDate": "2026-06-22T17:00:00+00:00",
+        "parentNoticeId": "f06d6db777e24ff5acbba8ef0c0565ef",
+        "award": {
+          "awardee": {
+            "ueiSAM": null,
+            "name": null
+          }
+        },
+        "responseTimeZone": "America/New_York",
+        "modifiedDate": "2026-07-08T03:55:47+00:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100012062",
+            "code": "1900",
+            "address": {
+              "zip": null,
+              "country": "US",
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "STATE, DEPARTMENT OF",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000190",
+            "code": "1900",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "STATE, DEPARTMENT OF",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "500026360",
+            "code": "19AQMM",
+            "address": {
+              "zip": "20520",
+              "country": "USA",
+              "city": "WASHINGTON",
+              "streetAddress": "US DEPT OF STATE, 2201 C ST NW",
+              "streetAddress2": null,
+              "state": "DC"
+            },
+            "level": 3,
+            "name": "ACQUISITIONS - AQM MOMENTUM",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "40c50cf4d8b24201977e129c31a32c5d",
+        "responseDateActual": "2026-06-22T13:00:00-04:00",
+        "modifications": {
+          "count": 2
+        },
+        "_source_query": "counter_UAS",
+        "_enriched": true,
+        "_enrichment": {
+          "naics": [],
+          "set_aside": "None",
+          "dates": {
+            "posted": "",
+            "response_deadline": "",
+            "archive": "",
+            "award": ""
+          },
+          "contacts": [],
+          "place": {
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+          },
+          "tags": [],
+          "related": [],
+          "enriched_at": "2026-08-05T14:08:09.188901"
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 29,
+        "_type": "opportunity",
+        "publishDate": "2026-05-20T13:49:33+00:00",
+        "isActive": true,
+        "title": "INDUSTRY PARTNERSHIP OPPORTUNITY: U.S. Army Test and Evaluation Command (ATEC) Announces Availability of Premier National Test Ranges",
+        "type": {
+          "code": "s",
+          "value": "Special Notice"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2026-05-20T13:49:33.687+00:00",
+            "content": "<p><strong>Description</strong></p>\n\n<p>The U.S. Army Test and Evaluation Command (ATEC) invites its partners in private industry, academia, and other government agencies to leverage our premier, world-class Test and Evaluation (T&amp;E) infrastructu"
+          }
+        ],
+        "solicitationNumber": "ATEC_122025",
+        "responseDate": "2026-10-01T03:59:00+00:00",
+        "parentNoticeId": "9f1eb910c24c44a19f0e760c7b84d036",
+        "award": {
+          "awardee": {
+            "ueiSAM": null,
+            "name": null
+          }
+        },
+        "responseTimeZone": "America/New_York",
+        "modifiedDate": "2026-05-20T13:49:33+00:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100000000",
+            "code": "9700",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "DEPT OF DEFENSE",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000201",
+            "code": "2100",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "DEPT OF THE ARMY",
+            "type": "AGENCY",
+            "status": "active"
+          }
+        ],
+        "_id": "e9e33ceb81d14a36ad7bf502cbb88f91",
+        "responseDateActual": "2026-09-30T23:59:00-04:00",
+        "modifications": {
+          "count": 7
+        },
+        "_source_query": "counter_UAS",
+        "_enriched": true,
+        "_enrichment": {
+          "naics": [],
+          "set_aside": "None",
+          "dates": {
+            "posted": "",
+            "response_deadline": "",
+            "archive": "",
+            "award": ""
+          },
+          "contacts": [],
+          "place": {
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+          },
+          "tags": [],
+          "related": [],
+          "enriched_at": "2026-08-05T14:08:09.199172"
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 55,
+        "_type": "opportunity",
+        "publishDate": "2026-01-07T17:13:12+00:00",
+        "isActive": false,
+        "title": "NATO Request for Information: Innovation Continuum 2026",
+        "type": {
+          "code": "s",
+          "value": "Special Notice"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2026-01-07T17:13:12.628+00:00",
+            "content": "<p>Headquarters Supreme Allied Command Transformation (HQ SACT) has issued a Request for Information (RFI) to engage with industry to understand state-of-the-art Emerging and Disruptive Technologies (EDTs) and innovative projects that could have a po"
+          }
+        ],
+        "solicitationNumber": "RFI-ACT-SACT-25-112",
+        "responseDate": "2026-01-30T22:00:00+00:00",
+        "parentNoticeId": null,
+        "award": {
+          "awardee": {
+            "ueiSAM": null,
+            "name": null
+          }
+        },
+        "responseTimeZone": "America/New_York",
+        "modifiedDate": "2026-01-31T05:04:27+00:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100035122",
+            "address": {
+              "zip": null,
+              "country": "US",
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "COMMERCE, DEPARTMENT OF",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000156",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "BUREAU OF INDUSTRY AND SECURITY",
+            "type": "AGENCY",
+            "status": "active"
+          }
+        ],
+        "_id": "d3df04c3590d4f2f95a2685c65ea61a8",
+        "responseDateActual": "2026-01-30T17:00:00-05:00",
+        "modifications": {
+          "count": 0
+        },
+        "_source_query": "counter_UAS",
+        "_enriched": true,
+        "_enrichment": {
+          "naics": [],
+          "set_aside": "None",
+          "dates": {
+            "posted": "",
+            "response_deadline": "",
+            "archive": "",
+            "award": ""
+          },
+          "contacts": [],
+          "place": {
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+          },
+          "tags": [],
+          "related": [],
+          "enriched_at": "2026-08-05T14:08:09.218193"
+        }
+      },
+      {
+        "isCanceled": false,
+        "_rScore": 48,
+        "_type": "opportunity",
+        "publishDate": "2023-03-07T12:05:32-05:00",
+        "isActive": false,
+        "title": "AFCENT Innovation Day",
+        "type": {
+          "code": "s",
+          "value": "Special Notice"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2023-03-07T12:05:32.845-05:00",
+            "content": "<p>On behalf of Lt Gen Alexus G. Grynkewich, Commander, Ninth Air Force (Air Forces Central), you are cordially invited to our <strong>AFCENT Innovation Day on 15 Feb 2023</strong> at Shaw AFB, South Carolina.&nbsp; The agenda will include a one day "
+          }
+        ],
+        "solicitationNumber": "",
+        "responseDate": "2023-01-26T16:00:00-05:00",
+        "parentNoticeId": "82bef70d09da4874bf4b770b35a3cd25",
+        "award": {
+          "awardee": {
+            "ueiSAM": null,
+            "name": null
+          }
+        },
+        "responseTimeZone": "America/New_York",
+        "modifiedDate": "2023-03-31T23:59:10-04:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100000000",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "DEPT OF DEFENSE",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000251",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "DEPT OF THE AIR FORCE",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100000669",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 3,
+            "name": "ACC",
+            "type": "MAJOR COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "100001355",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 4,
+            "name": "US AIR FORCES CENTRAL",
+            "type": "SUB COMMAND",
+            "status": "active"
+          }
+        ],
+        "_id": "188b604bb56e41a0943459acb4cf0dea",
+        "responseDateActual": "2023-01-26T16:00:00-05:00",
+        "modifications": {
+          "count": 4
+        },
+        "_source_query": "counter_UAS",
+        "_enriched": true,
+        "_enrichment": {
+          "naics": [],
+          "set_aside": "None",
+          "dates": {
+            "posted": "",
+            "response_deadline": "",
+            "archive": "",
+            "award": ""
+          },
+          "contacts": [],
+          "place": {
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+          },
+          "tags": [],
+          "related": [],
+          "enriched_at": "2026-08-05T14:08:09.258390"
+        }
+      }
+    ],
+    "ms": 0,
+    "total_ms": 112.54433800002062,
+    "benchmark_ms": 31.931535000012445
+  },
+  "ts": "2026-08-05T16:29:13.918481"
+}

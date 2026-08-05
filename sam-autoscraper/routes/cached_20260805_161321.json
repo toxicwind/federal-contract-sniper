@@ -1,0 +1,12 @@
+{
+  "query": "systems design NAICS 541512",
+  "result": {
+    "ok": true,
+    "route": "cached",
+    "results": [],
+    "ms": 0,
+    "total_ms": 33.07357500011676,
+    "benchmark_ms": 12.801537000086682
+  },
+  "ts": "2026-08-05T16:13:21.834113"
+}

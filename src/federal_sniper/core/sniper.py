@@ -78,7 +78,7 @@ class SniperEngine:
         url = "https://sam.gov/api/prodlike/sgs/v1/search"
         payload = json.dumps({"index": "opp", "page": page, "size": size, "sort": "-modifiedDate", "q": query, "mode": "search", "responseType": "json"})
         headers = {
-            "X-Api-Key": "O4kzViWGVYNumPqhAzUhYGiZZZwW3RKUEYJOI6ii",
+            "X-Api-Key": "SAM_API_KEY_LOAD_FROM_ENV",
             "Referer": "https://sam.gov/search",
             "Origin": "https://sam.gov",
             "X-Requested-With": "XMLHttpRequest"

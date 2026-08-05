@@ -1,0 +1,167 @@
+{
+  "generated": "2026-08-05T16:29:10.699783",
+  "profile": "emergent",
+  "profile_name": "Emergent Anomaly Hunter",
+  "user": "Christopher Ortega",
+  "company": "Effusion Labs LLC",
+  "total_queries": 13,
+  "total_unique": 14,
+  "total_ms": 624.86,
+  "top_20": [
+    {
+      "id": "F2XJA76154AW01",
+      "title": "FY26 AFJROTC VEX AIR Competition Drones - Intent to Sole Source",
+      "score": 23,
+      "reasons": [
+        "no_clearance",
+        "sole_source",
+        "ai_keywords_1",
+        "recent"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "M67854-26-I-0225",
+      "title": "Notice of Intent to Sole Source and Sources Sought: Counter-small Unmanned Aerial Systems (C-sUAS) f",
+      "score": 23,
+      "reasons": [
+        "no_clearance",
+        "sole_source",
+        "it_keywords_1",
+        "very_recent"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "89233126DNA000078",
+      "title": "23--Procure two (2) prototypes and twenty-five (25) full production of On-The-Move (OTM) Counter-Unm",
+      "score": 22,
+      "reasons": [
+        "no_clearance",
+        "it_keywords_1",
+        "ai_keywords_1",
+        "recent",
+        "pilot_program"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "NUFOHRC_20260731",
+      "title": "Notice of Intent to Sole Source: Historical UAP Data and Analysis Subscription",
+      "score": 22,
+      "reasons": [
+        "no_clearance",
+        "sole_source",
+        "it_keywords_1",
+        "recent"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "IT-1",
+      "title": "Notification of Award of Sole Source Bridge Action_Cybersecurity and Privacy Program Support Service",
+      "score": 22,
+      "reasons": [
+        "no_clearance",
+        "sole_source",
+        "very_recent"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "1333MJ26Q0034",
+      "title": "Notice of Intent to Sole Source - Freefly Astromax",
+      "score": 22,
+      "reasons": [
+        "no_clearance",
+        "sole_source",
+        "very_recent"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "W9132V-21-N-9967",
+      "title": "Notice of Intent to Sole Source U.S Army compliant sUAS fixed wing vertical takeoff and landing airc",
+      "score": 22,
+      "reasons": [
+        "no_clearance",
+        "sole_source",
+        "ai_keywords_1"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "W50S8V-26-Q-0026",
+      "title": "Notice of Intent to Sole Source - SkySafe SaaS Drone Detection Coverage Subscription",
+      "score": 21,
+      "reasons": [
+        "no_clearance",
+        "sole_source",
+        "recent"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "N0016423Q0261",
+      "title": "SOLE SOURCE \u2013 ROTATIONAL STAND",
+      "score": 20,
+      "reasons": [
+        "no_clearance",
+        "sole_source"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "N0016422RJW72",
+      "title": "SOLE SOURCE \u2013 Common Chassis Weapons Replaceable Assemblies (WRA\u2019s), Shop Replaceable Assemblies (SR",
+      "score": 20,
+      "reasons": [
+        "no_clearance",
+        "sole_source"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "FY24-0069",
+      "title": "Notice of Intent to Sole Source - D-Fend Solutions, Inc.",
+      "score": 20,
+      "reasons": [
+        "no_clearance",
+        "sole_source"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "FA483026Q0057",
+      "title": "FPV Quadcopters, Unassembled FPV Quadcopter Kits, FPV Pilot Kits",
+      "score": 19,
+      "reasons": [
+        "no_clearance",
+        "recent",
+        "pilot_program"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "W15QKN25R14B5",
+      "title": "Prototype Project Opportunity Notice (PPON) for Precision Grenadier System (PGS) Technology Demonstr",
+      "score": 19,
+      "reasons": [
+        "no_clearance",
+        "it_keywords_1",
+        "pilot_program"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "W15QKN-25-X-12TE",
+      "title": "Call for Participants \u2013 Product Manager Soldier Weapons Precision Grenadier System Technology Demons",
+      "score": 16,
+      "reasons": [
+        "no_clearance",
+        "it_keywords_1"
+      ],
+      "deadline": ""
+    }
+  ]
+}

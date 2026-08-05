@@ -1,0 +1,92 @@
+{
+  "timestamp": "2026-08-06T01:04:12.481345",
+  "summary": {
+    "name": "Christopher Ortega",
+    "company": "Effusion Labs LLC",
+    "location": "Westminster, CO 80234",
+    "business_size": "SMALL",
+    "naics": [
+      "541512",
+      "518210",
+      "541715",
+      "511210",
+      "541330",
+      "541519",
+      "541511"
+    ],
+    "skills": [
+      "python",
+      "gpu",
+      "typescript",
+      "nvidia-smi",
+      "process orchestration",
+      "kafka",
+      "linux internals",
+      "docker",
+      "aws",
+      "ai",
+      "spark",
+      "llm",
+      "scala",
+      "data engineering",
+      "rust",
+      "elasticsearch",
+      "kernel tuning",
+      "kubernetes",
+      "prompt security",
+      "kv cache",
+      "machine learning",
+      "distributed systems",
+      "prompt injection",
+      "rag systems"
+    ],
+    "clearance": null,
+    "differentiators": [
+      "Bare-metal LLM serving expertise (27B+ parameter models)",
+      "Automated memory profiling eliminating runtime OOM failures",
+      "Multi-agent routing with persistent file-based state",
+      "Small business agility with enterprise-grade reliability",
+      "NO clearance required \u2014 immediate availability"
+    ],
+    "past_performance": [
+      {
+        "client": "Charter Communications",
+        "role": "Platform Technical Lead",
+        "years": "2019-2023",
+        "tech": "Scala,Spark,Kafka,Kinesis,Kubernetes,Elasticsearch",
+        "desc": "Backend architecture for subscriber segmentation and real-time activation"
+      },
+      {
+        "client": "Access Data Consulting",
+        "role": "Software Engineer",
+        "years": "2017-2019",
+        "tech": "TypeScript,Python,real-time APIs",
+        "desc": "Control planes and dashboards for targeting APIs"
+      },
+      {
+        "client": "Open Source",
+        "role": "Maintainer",
+        "years": "2023-Present",
+        "tech": "Python,JSON,SD3",
+        "desc": "ComfyUI-TTools for resolution optimization"
+      }
+    ]
+  },
+  "gaps": [
+    "DUNS number missing \u2014 required for SAM.gov registration",
+    "CAGE code missing \u2014 required for DOD contracts",
+    "No security clearance \u2014 blocks 40% of DOD IT contracts"
+  ],
+  "recommendations": [
+    "Register in SAM.gov immediately if not already",
+    "Obtain DUNS and CAGE codes",
+    "Consider teaming with a cleared subcontractor for DOD work",
+    "Add one more past performance reference (preferably federal)"
+  ],
+  "strengths": [
+    "HackAPrompt 2025 Top-10 \u2014 unique differentiator",
+    "Bare-metal LLM expertise \u2014 rare in federal contracting",
+    "Small business \u2014 eligible for all set-asides",
+    "No clearance required \u2014 fast start capability"
+  ]
+}

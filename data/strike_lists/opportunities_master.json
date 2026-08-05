@@ -1,0 +1,647 @@
+{
+  "timestamp": "2026-08-06T01:04:12.503263",
+  "total_records": 364,
+  "total_unique": 311,
+  "total_fillable": 309,
+  "top_50": [
+    {
+      "id": "IT-1",
+      "title": "Notification of Award of Sole Source Bridge Action_Cybersecurity and Privacy Program Support Service",
+      "score": 42,
+      "reasons": [
+        "no_clearance",
+        "sole_source",
+        "very_recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "TRANSPORTATION, DEPARTMENT OF"
+    },
+    {
+      "id": "1333MJ26Q0034",
+      "title": "Notice of Intent to Sole Source - Freefly Astromax",
+      "score": 42,
+      "reasons": [
+        "no_clearance",
+        "sole_source",
+        "very_recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "COMMERCE, DEPARTMENT OF"
+    },
+    {
+      "id": "F2XJA76154AW01",
+      "title": "FY26 AFJROTC VEX AIR Competition Drones - Intent to Sole Source",
+      "score": 42,
+      "reasons": [
+        "no_clearance",
+        "skills_['ai']",
+        "sole_source",
+        "recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "M67854-26-I-0225",
+      "title": "Notice of Intent to Sole Source and Sources Sought: Counter-small Unmanned Aerial Systems (C-sUAS) f",
+      "score": 42,
+      "reasons": [
+        "no_clearance",
+        "sole_source",
+        "very_recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "FY24-0069",
+      "title": "Notice of Intent to Sole Source - D-Fend Solutions, Inc.",
+      "score": 41,
+      "reasons": [
+        "no_clearance",
+        "sole_source",
+        "no_deadline",
+        "icf_agency_recompete"
+      ],
+      "deadline": "",
+      "agency": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "id": "NUFOHRC_20260731",
+      "title": "Notice of Intent to Sole Source: Historical UAP Data and Analysis Subscription",
+      "score": 40,
+      "reasons": [
+        "no_clearance",
+        "sole_source",
+        "recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "W50S8V-26-Q-0026",
+      "title": "Notice of Intent to Sole Source - SkySafe SaaS Drone Detection Coverage Subscription",
+      "score": 40,
+      "reasons": [
+        "no_clearance",
+        "sole_source",
+        "recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "W9132V-21-N-9967",
+      "title": "Notice of Intent to Sole Source U.S Army compliant sUAS fixed wing vertical takeoff and landing airc",
+      "score": 39,
+      "reasons": [
+        "no_clearance",
+        "skills_['ai']",
+        "sole_source",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "N0016423Q0261",
+      "title": "SOLE SOURCE \u2013 ROTATIONAL STAND",
+      "score": 37,
+      "reasons": [
+        "no_clearance",
+        "sole_source",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "N0016422RJW72",
+      "title": "SOLE SOURCE \u2013 Common Chassis Weapons Replaceable Assemblies (WRA\u2019s), Shop Replaceable Assemblies (SR",
+      "score": 37,
+      "reasons": [
+        "no_clearance",
+        "sole_source",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "140R4026Q0131",
+      "title": "Provo Area Office Camera Crawler",
+      "score": 31,
+      "reasons": [
+        "no_clearance",
+        "very_recent",
+        "no_deadline",
+        "icf_agency_recompete"
+      ],
+      "deadline": "",
+      "agency": "INTERIOR, DEPARTMENT OF THE"
+    },
+    {
+      "id": "70Z08026QRN062",
+      "title": "INTERCOMMUNICATION STATION",
+      "score": 31,
+      "reasons": [
+        "no_clearance",
+        "very_recent",
+        "no_deadline",
+        "icf_agency_recompete"
+      ],
+      "deadline": "",
+      "agency": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "id": "70z08026QDE027",
+      "title": "TRANSMITTER,PRESSURE",
+      "score": 31,
+      "reasons": [
+        "no_clearance",
+        "very_recent",
+        "no_deadline",
+        "icf_agency_recompete"
+      ],
+      "deadline": "",
+      "agency": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "id": "70Z08026QAK038",
+      "title": "REPAIR KIT, ADHESIVE PATCH",
+      "score": 31,
+      "reasons": [
+        "no_clearance",
+        "skills_['ai']",
+        "recent",
+        "no_deadline",
+        "icf_agency_recompete"
+      ],
+      "deadline": "",
+      "agency": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "id": "70Z03326QSEAT009",
+      "title": "USCG Station Siuslaw Roofing and Sheetrock Repair",
+      "score": 31,
+      "reasons": [
+        "no_clearance",
+        "skills_['ai']",
+        "recent",
+        "no_deadline",
+        "icf_agency_recompete"
+      ],
+      "deadline": "",
+      "agency": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "id": "DOIDFBO260075",
+      "title": "15--J&A SAM Posting (Easy Aerial UAS)",
+      "score": 31,
+      "reasons": [
+        "no_clearance",
+        "very_recent",
+        "no_deadline",
+        "icf_agency_recompete"
+      ],
+      "deadline": "",
+      "agency": "INTERIOR, DEPARTMENT OF THE"
+    },
+    {
+      "id": "FA460026Q0066",
+      "title": "Install New 97th IS Air Handling Unit, B301 - Offutt AFB, NE",
+      "score": 29,
+      "reasons": [
+        "no_clearance",
+        "skills_['ai']",
+        "very_recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "W911QY26RREFR",
+      "title": "Preventative Maintenance and Repair Services for Government-Owned Reach-In and Walk-In Refrigeration",
+      "score": 29,
+      "reasons": [
+        "no_clearance",
+        "skills_['ai']",
+        "very_recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "N0010426QEC85",
+      "title": "NUT,PLAIN,HEXAGON",
+      "score": 29,
+      "reasons": [
+        "no_clearance",
+        "skills_['ai']",
+        "very_recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "N0010426QUC11",
+      "title": "59--CAPACITOR ASSEMBLY, IN REPAIR/MODIFICATION OF",
+      "score": 29,
+      "reasons": [
+        "no_clearance",
+        "skills_['ai']",
+        "very_recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "N0010426QLC24",
+      "title": "61--MOTOR,ALTERNATING C, IN REPAIR/MODIFICATION OF",
+      "score": 29,
+      "reasons": [
+        "no_clearance",
+        "skills_['ai']",
+        "very_recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "N0010426QDB12",
+      "title": "61--FUSE BLK/EMI A11, IN REPAIR/MODIFICATION OF",
+      "score": 29,
+      "reasons": [
+        "no_clearance",
+        "skills_['ai']",
+        "very_recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "W50S9E26QJ012",
+      "title": "Student Recruitment and Enrollment Management Platform",
+      "score": 29,
+      "reasons": [
+        "no_clearance",
+        "skills_['llm']",
+        "very_recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "W58RGZ-26-S-C001-006",
+      "title": "Battalion Reconnaissance UAS",
+      "score": 29,
+      "reasons": [
+        "no_clearance",
+        "skills_['ai']",
+        "very_recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "70Z08026QZC030",
+      "title": "inspection for SEARCHLIGHT, 350 WATT ARC, 25",
+      "score": 29,
+      "reasons": [
+        "no_clearance",
+        "recent",
+        "no_deadline",
+        "icf_agency_recompete"
+      ],
+      "deadline": "",
+      "agency": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "id": "70Z08026QAG125",
+      "title": "inspection for OPERATOR INTERFACE, ELECTRONIC",
+      "score": 29,
+      "reasons": [
+        "no_clearance",
+        "recent",
+        "no_deadline",
+        "icf_agency_recompete"
+      ],
+      "deadline": "",
+      "agency": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "id": "75H70726Q00076-SS",
+      "title": "Sources Sought- Recruitment Video Production Services \u2013 The Jicarilla Service Unit",
+      "score": 29,
+      "reasons": [
+        "no_clearance",
+        "recent",
+        "no_deadline",
+        "icf_agency_recompete"
+      ],
+      "deadline": "",
+      "agency": "HEALTH AND HUMAN SERVICES, DEPARTMENT OF"
+    },
+    {
+      "id": "70Z08026QAG170",
+      "title": "open inspect and report SAFETY SHUT-OFF",
+      "score": 29,
+      "reasons": [
+        "no_clearance",
+        "recent",
+        "no_deadline",
+        "icf_agency_recompete"
+      ],
+      "deadline": "",
+      "agency": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "id": "70Z08026QAG090",
+      "title": "Open, Inspect, Report and Overhaul Governor",
+      "score": 29,
+      "reasons": [
+        "no_clearance",
+        "recent",
+        "no_deadline",
+        "icf_agency_recompete"
+      ],
+      "deadline": "",
+      "agency": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "id": "70z08026QDF022",
+      "title": "ODMS FILTER ELEMENT,FLUID",
+      "score": 29,
+      "reasons": [
+        "no_clearance",
+        "recent",
+        "no_deadline",
+        "icf_agency_recompete"
+      ],
+      "deadline": "",
+      "agency": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "id": "70z08026QRO098",
+      "title": "ODMS FILTER ELEMENT, FLUID",
+      "score": 29,
+      "reasons": [
+        "no_clearance",
+        "recent",
+        "no_deadline",
+        "icf_agency_recompete"
+      ],
+      "deadline": "",
+      "agency": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "id": "70z08026QAG092",
+      "title": "inspection for PUMP, CENTRIFUGAL",
+      "score": 29,
+      "reasons": [
+        "no_clearance",
+        "recent",
+        "no_deadline",
+        "icf_agency_recompete"
+      ],
+      "deadline": "",
+      "agency": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "id": "70z08026QAG089",
+      "title": "inspection for PORT & STBD R/W PUMP, 42 TOOTH, OIR",
+      "score": 29,
+      "reasons": [
+        "no_clearance",
+        "recent",
+        "no_deadline",
+        "icf_agency_recompete"
+      ],
+      "deadline": "",
+      "agency": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "id": "70Z08026QAG172",
+      "title": "VALVE,PRESSURE REDUCING",
+      "score": 29,
+      "reasons": [
+        "no_clearance",
+        "recent",
+        "no_deadline",
+        "icf_agency_recompete"
+      ],
+      "deadline": "",
+      "agency": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "id": "70z08026QDI031",
+      "title": "MULTICOUPLER UNIT",
+      "score": 29,
+      "reasons": [
+        "no_clearance",
+        "recent",
+        "no_deadline",
+        "icf_agency_recompete"
+      ],
+      "deadline": "",
+      "agency": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "id": "PAEA-UnmannedStratSS",
+      "title": "Unmanned Carrier-Based Aircraft Solutions Request for Information (RFI)",
+      "score": 29,
+      "reasons": [
+        "no_clearance",
+        "skills_['ai']",
+        "very_recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "140G0126Q0210",
+      "title": "UNMANNED VEHICLE & SONAR",
+      "score": 29,
+      "reasons": [
+        "no_clearance",
+        "recent",
+        "no_deadline",
+        "icf_agency_recompete"
+      ],
+      "deadline": "",
+      "agency": "INTERIOR, DEPARTMENT OF THE"
+    },
+    {
+      "id": "70B04C26F00000558",
+      "title": "EdgeXtend",
+      "score": 29,
+      "reasons": [
+        "no_clearance",
+        "recent",
+        "no_deadline",
+        "icf_agency_recompete"
+      ],
+      "deadline": "",
+      "agency": "HOMELAND SECURITY, DEPARTMENT OF"
+    },
+    {
+      "id": "N4425526R0005_Industry_Day",
+      "title": "Kitsap Industrial Readiness Summit and NAVFAC Northwest Shipyard Infrastructure Optimization Program",
+      "score": 27,
+      "reasons": [
+        "no_clearance",
+        "very_recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "FA487726QA137",
+      "title": "CCTV Cameras",
+      "score": 27,
+      "reasons": [
+        "no_clearance",
+        "very_recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "FA8806-26-S-0001_AOI4_CSO_Call2",
+      "title": "Kronos Family of Systems Commercial Solutions Opening",
+      "score": 27,
+      "reasons": [
+        "no_clearance",
+        "very_recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "W58RGZ-26-B-0024",
+      "title": "Pre-Solicitation Synopsis for Overhaul of the Hydraulic Valve",
+      "score": 27,
+      "reasons": [
+        "no_clearance",
+        "very_recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "HT941026Q2039",
+      "title": "Medical Courier Services // 355th Medical Group",
+      "score": 27,
+      "reasons": [
+        "no_clearance",
+        "very_recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "N61331-26-Q-KS47",
+      "title": "Small Business Set Aside for Ocean Simulation Facility Modernization per attachments- CMMC Level 1 R",
+      "score": 27,
+      "reasons": [
+        "no_clearance",
+        "very_recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "N6660426Q0188",
+      "title": "Breakout Box",
+      "score": 27,
+      "reasons": [
+        "no_clearance",
+        "very_recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "N4008026RAEIDIQINDUSTRIAL",
+      "title": "NAVFAC WASHINGTON FY26 AE IDIQ INDUSTRIAL",
+      "score": 27,
+      "reasons": [
+        "no_clearance",
+        "very_recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "SPMYM326Q6073",
+      "title": "VLS RUGGEDIZED DESIGN SWITCH",
+      "score": 27,
+      "reasons": [
+        "no_clearance",
+        "very_recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "W911QY-26-R-SHAD",
+      "title": "Installation of four Exterior Shading Systems",
+      "score": 27,
+      "reasons": [
+        "no_clearance",
+        "very_recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "FA462526Q1075",
+      "title": "MDR Seating Bldg 153",
+      "score": 27,
+      "reasons": [
+        "no_clearance",
+        "very_recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    },
+    {
+      "id": "W911QY-26-R-INST",
+      "title": "Installation of Instron Machine",
+      "score": 27,
+      "reasons": [
+        "no_clearance",
+        "very_recent",
+        "no_deadline"
+      ],
+      "deadline": "",
+      "agency": "DEPT OF DEFENSE"
+    }
+  ]
+}

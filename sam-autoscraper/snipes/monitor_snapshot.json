@@ -1,0 +1,250 @@
+{
+  "iteration": 38,
+  "timestamp": "2026-08-05T16:34:33.050025",
+  "pids": {
+    "default": {
+      "pid": 489,
+      "alive": false
+    },
+    "emergent": {
+      "pid": 437,
+      "alive": false
+    },
+    "health_it": {
+      "pid": 526,
+      "alive": false
+    },
+    "monitor": {
+      "pid": 690,
+      "alive": true
+    }
+  },
+  "profiles": {
+    "BIO_AGRI": {
+      "total": 0,
+      "ms": 1375.13,
+      "top": null
+    },
+    "CHAOS": {
+      "total": 0,
+      "ms": 155.77,
+      "top": null
+    },
+    "DEFAULT": {
+      "total": 3,
+      "ms": 282.93,
+      "top": {
+        "id": "IT-1",
+        "title": "Notification of Award of Sole Source Bridge Action_Cybersecurity and Privacy Program Support Service",
+        "score": 22,
+        "reasons": [
+          "no_clearance",
+          "sole_source",
+          "very_recent"
+        ],
+        "deadline": ""
+      }
+    },
+    "EMERGENT": {
+      "total": 14,
+      "ms": 624.86,
+      "top": {
+        "id": "F2XJA76154AW01",
+        "title": "FY26 AFJROTC VEX AIR Competition Drones - Intent to Sole Source",
+        "score": 23,
+        "reasons": [
+          "no_clearance",
+          "sole_source",
+          "ai_keywords_1",
+          "recent"
+        ],
+        "deadline": ""
+      }
+    },
+    "ENERGY_GRID": {
+      "total": 1,
+      "ms": 1270.16,
+      "top": {
+        "id": "23NA000610",
+        "title": "Teledyne Flir Skyraider Unmanned Systems in support of DOE/NNSA Office of Secure Transportation (OST",
+        "score": 18,
+        "reasons": [
+          "no_clearance",
+          "it_keywords_1",
+          "ai_keywords_1"
+        ],
+        "deadline": ""
+      }
+    },
+    "HEALTH_IT": {
+      "total": 12,
+      "ms": 236.2,
+      "top": {
+        "id": "IT-1",
+        "title": "Notification of Award of Sole Source Bridge Action_Cybersecurity and Privacy Program Support Service",
+        "score": 22,
+        "reasons": [
+          "no_clearance",
+          "sole_source",
+          "very_recent"
+        ],
+        "deadline": ""
+      }
+    },
+    "SMALL_BIZ_GOLD": {
+      "total": 0,
+      "ms": 1358.53,
+      "top": null
+    },
+    "SNIPE_LIST": {
+      "total": 14,
+      "ms": 868.37,
+      "top": {
+        "id": "F2XJA76154AW01",
+        "title": "FY26 AFJROTC VEX AIR Competition Drones - Intent to Sole Source",
+        "score": 23,
+        "reasons": [
+          "no_clearance",
+          "sole_source",
+          "ai_keywords_1",
+          "recent"
+        ],
+        "deadline": ""
+      }
+    }
+  },
+  "top_targets": [
+    {
+      "id": "F2XJA76154AW01",
+      "title": "FY26 AFJROTC VEX AIR Competition Drones - Intent to Sole Source",
+      "score": 23,
+      "reasons": [
+        "no_clearance",
+        "sole_source",
+        "ai_keywords_1",
+        "recent"
+      ],
+      "deadline": "",
+      "profile": "EMERGENT"
+    },
+    {
+      "id": "M67854-26-I-0225",
+      "title": "Notice of Intent to Sole Source and Sources Sought: Counter-small Unmanned Aerial Systems (C-sUAS) f",
+      "score": 23,
+      "reasons": [
+        "no_clearance",
+        "sole_source",
+        "it_keywords_1",
+        "very_recent"
+      ],
+      "deadline": "",
+      "profile": "EMERGENT"
+    },
+    {
+      "id": "IT-1",
+      "title": "Notification of Award of Sole Source Bridge Action_Cybersecurity and Privacy Program Support Service",
+      "score": 22,
+      "reasons": [
+        "no_clearance",
+        "sole_source",
+        "very_recent"
+      ],
+      "deadline": "",
+      "profile": "DEFAULT"
+    },
+    {
+      "id": "89233126DNA000078",
+      "title": "23--Procure two (2) prototypes and twenty-five (25) full production of On-The-Move (OTM) Counter-Unm",
+      "score": 22,
+      "reasons": [
+        "no_clearance",
+        "it_keywords_1",
+        "ai_keywords_1",
+        "recent",
+        "pilot_program"
+      ],
+      "deadline": "",
+      "profile": "EMERGENT"
+    },
+    {
+      "id": "NUFOHRC_20260731",
+      "title": "Notice of Intent to Sole Source: Historical UAP Data and Analysis Subscription",
+      "score": 22,
+      "reasons": [
+        "no_clearance",
+        "sole_source",
+        "it_keywords_1",
+        "recent"
+      ],
+      "deadline": "",
+      "profile": "EMERGENT"
+    },
+    {
+      "id": "1333MJ26Q0034",
+      "title": "Notice of Intent to Sole Source - Freefly Astromax",
+      "score": 22,
+      "reasons": [
+        "no_clearance",
+        "sole_source",
+        "very_recent"
+      ],
+      "deadline": "",
+      "profile": "EMERGENT"
+    },
+    {
+      "id": "W9132V-21-N-9967",
+      "title": "Notice of Intent to Sole Source U.S Army compliant sUAS fixed wing vertical takeoff and landing airc",
+      "score": 22,
+      "reasons": [
+        "no_clearance",
+        "sole_source",
+        "ai_keywords_1"
+      ],
+      "deadline": "",
+      "profile": "EMERGENT"
+    },
+    {
+      "id": "W50S8V-26-Q-0026",
+      "title": "Notice of Intent to Sole Source - SkySafe SaaS Drone Detection Coverage Subscription",
+      "score": 21,
+      "reasons": [
+        "no_clearance",
+        "sole_source",
+        "recent"
+      ],
+      "deadline": "",
+      "profile": "EMERGENT"
+    },
+    {
+      "id": "W15P7T13RD048",
+      "title": "58--4 sets of tactical seismic/acoustic sensors (Battlefield Anti-Instrusion System (BAIS) or equiva",
+      "score": 20,
+      "reasons": [
+        "no_clearance",
+        "it_keywords_1",
+        "ai_keywords_2"
+      ],
+      "deadline": "",
+      "profile": "DEFAULT"
+    },
+    {
+      "id": "N0016423Q0261",
+      "title": "SOLE SOURCE \u2013 ROTATIONAL STAND",
+      "score": 20,
+      "reasons": [
+        "no_clearance",
+        "sole_source"
+      ],
+      "deadline": "",
+      "profile": "EMERGENT"
+    }
+  ],
+  "benchmarks": {
+    "total": 436,
+    "success": 436,
+    "fail": 0,
+    "avg_ms": 44.401422018348626,
+    "fastest": 5.53,
+    "slowest": 269.95
+  }
+}

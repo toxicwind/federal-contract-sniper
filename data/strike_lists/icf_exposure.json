@@ -1,0 +1,83 @@
+{
+  "timestamp": "2026-08-06T01:04:12.531163",
+  "total_awards": 100,
+  "total_active": 0,
+  "recompetes_12mo": 0,
+  "recompetes_6mo": 0,
+  "recompetes_3mo": 0,
+  "agency_breakdown": {
+    "Department of Health and Human Services": 45,
+    "Department of Defense": 12,
+    "Agency for International Development": 7,
+    "Department of the Interior": 7,
+    "General Services Administration": 5,
+    "Environmental Protection Agency": 5,
+    "Department of Justice": 4,
+    "Department of Homeland Security": 4,
+    "Department of Agriculture": 3,
+    "Social Security Administration": 2
+  },
+  "top_contracts": [
+    {
+      "id": "AIDOAAC1300095",
+      "amount": 180787100.88,
+      "agency": "Agency for International Development",
+      "desc": "IGF::OT::IGF GH/PEC - REQUEST NEW FY13 AWARD: DEMOGRAPHIC AND HEALTH SURVEYS PHA"
+    },
+    {
+      "id": "7200AA18C00083",
+      "amount": 164875574.0,
+      "agency": "Agency for International Development",
+      "desc": "PRH/PEC -- DHS-8.   THE PURPOSE OF THIS CONTRACT IS TO IMPROVE THE COLLECTION, A"
+    },
+    {
+      "id": "SP800026F0008",
+      "amount": 149999999.98,
+      "agency": "Department of Defense",
+      "desc": "AEROSPACE GRADE RAYON FIBER DO"
+    },
+    {
+      "id": "7200AA18M00010",
+      "amount": 135629049.0,
+      "agency": "Agency for International Development",
+      "desc": "THE STRATEGIC OBJECTIVE OF THE IDDS ACTIVITY IS TO STRENGTHEN THE DETECTION OF D"
+    },
+    {
+      "id": "W911QX17C0018",
+      "amount": 106070758.32,
+      "agency": "Department of Defense",
+      "desc": "IGF::CT::IGF DEFENSE CYBER OPERATIONS RESEARCH AND SUPPORTING ELEMENTS"
+    },
+    {
+      "id": "75P00119F37016",
+      "amount": 99857196.09,
+      "agency": "Department of Health and Human Services",
+      "desc": "CHILD WELFARE CAPACITY BUILDING CENTER FOR STATES"
+    },
+    {
+      "id": "75N98120F00004",
+      "amount": 95338354.55,
+      "agency": "Department of Health and Human Services",
+      "desc": "ACF CHILDREN'S BUREAU CWIG - ICF BASE AWARD HYBRID CPFF/FFP 09/25/2020 -09/24/20"
+    },
+    {
+      "id": "HHSN276201300006C",
+      "amount": 70146285.76,
+      "agency": "Department of Health and Human Services",
+      "desc": "IGF::CT::IGF FOR CRITICAL FUNCTIONS - PURPOSE OF AWARD:  TO AWARD CONTRACT FOR T"
+    },
+    {
+      "id": "HHSP233201400033C",
+      "amount": 62103649.0,
+      "agency": "Department of Health and Human Services",
+      "desc": "IGF::CL::IGF NATIONAL CAPACITY BUILDING CENTER FOR PUBLIC CHILD WELFARE AGENCIES"
+    },
+    {
+      "id": "W911QX14F0020",
+      "amount": 61439899.34,
+      "agency": "Department of Defense",
+      "desc": "IGF::OT::IGF ARL CYBER NETWORK DEFENSE SERVICES"
+    }
+  ],
+  "immediate_targets": []
+}

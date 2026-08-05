@@ -1,0 +1,2876 @@
+{
+  "DEPT OF DEFENSE": {
+    "entity": "DEPT OF DEFENSE",
+    "total_contracts": 243,
+    "audited": 37,
+    "total_weird_score": 46,
+    "avg_weird_score": 1.2432432432432432,
+    "top_weird_signals": [
+      [
+        "missing_contact_email",
+        37
+      ],
+      [
+        "uap_anomalous",
+        4
+      ],
+      [
+        "sole_source_vague",
+        2
+      ],
+      [
+        "suspicious_vendor",
+        2
+      ],
+      [
+        "foreign_place",
+        1
+      ]
+    ],
+    "high_risk_contracts": [
+      {
+        "id": "NUFOHRC_20260731",
+        "title": "Notice of Intent to Sole Source: Historical UAP Data and Analysis Subscription",
+        "score": 3,
+        "weird": [
+          "sole_source_vague",
+          "uap_anomalous",
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2026-07-31T12:56:33+00:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "W15P7T13RD048",
+        "title": "58--4 sets of tactical seismic/acoustic sensors (Battlefield Anti-Instrusion System (BAIS) or equiva",
+        "score": 3,
+        "weird": [
+          "uap_anomalous",
+          "foreign_place",
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2013-08-20T09:44:43-04:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      }
+    ],
+    "all_audits": [
+      {
+        "id": "NUFOHRC_20260731",
+        "title": "Notice of Intent to Sole Source: Historical UAP Data and Analysis Subscription",
+        "score": 3,
+        "weird": [
+          "sole_source_vague",
+          "uap_anomalous",
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2026-07-31T12:56:33+00:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "USACC3BDEKPM0004",
+        "title": "69--3BDE JR Marksmanship Equipment",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2023-09-15T17:00:38+00:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "N0016423Q0261",
+        "title": "SOLE SOURCE \u2013 ROTATIONAL STAND",
+        "score": 2,
+        "weird": [
+          "sole_source_vague",
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2023-07-13T13:25:00-04:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "W911PT_SS_Dye_Penetrant_Insp_Sys",
+        "title": "Dye Penetrant Inspection System for Watervliet Arsenal",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2021-07-02T16:15:37-04:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "JACKADSLTB0015",
+        "title": "59--Wi-Fi Components",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2020-09-09T15:23:32-04:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "JBSA323DABDMO0003",
+        "title": "77--Sound Equipment",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2020-04-14T13:39:52-04:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "BRAGG4BN3SFGREG0003",
+        "title": "D--Communication's Equipment",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2020-03-26T15:43:15-04:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "W52P1J17R0165",
+        "title": "MAINTENANCE OF ELECTRONIC AND COMMUNICATIONS FACILITIES",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2017-08-30T10:42:44-04:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "W52P1J-17-R-BGCA",
+        "title": "Blue Grass Chemical Activity (BGCA) is seeking potential companies who are capable of supporting pre",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2017-05-16T13:56:44-04:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "W56HZV16R0187",
+        "title": "HEMTT vehicles and OCONUS Training for the Government of Qatar",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2016-11-03T15:19:11-04:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "W91CRB15R5032",
+        "title": "10--Global Positioning Systems",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2015-09-10T13:12:01-04:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "W15P7T-13-R-D049",
+        "title": "61--10kW 50/60Hz Adjustable Diesel Generators",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2013-08-22T11:39:39-04:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "W15P7T13RD523",
+        "title": "58--Mine Detectors, AN/PSS-14 Type System",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2013-07-18T13:53:15-04:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "W15P7T13RD048",
+        "title": "58--4 sets of tactical seismic/acoustic sensors (Battlefield Anti-Instrusion System (BAIS) or equiva",
+        "score": 3,
+        "weird": [
+          "uap_anomalous",
+          "foreign_place",
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2013-08-20T09:44:43-04:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "W15P7T-13-R-D009",
+        "title": "58--(QTY.44)TSE-AMP MB-50 AMPLIFIER",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2013-06-17T16:23:31-04:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "MARKET-SURVEY-523-1",
+        "title": "58--FMS Case H8-B-UAP",
+        "score": 2,
+        "weird": [
+          "uap_anomalous",
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2013-04-09T10:03:58-04:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "MARKET-SURVEY-5416-1",
+        "title": "58--FMS Case H8-B-UAP",
+        "score": 2,
+        "weird": [
+          "uap_anomalous",
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2013-03-28T10:05:21-04:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "W912EP-08-D-0014-0004",
+        "title": "RECOVERY--99--PROJECT NUMBER 15170, Removal Of Aquatic Growth, FL",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2010-03-25T11:42:51-04:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "W68GYJ9083NM29",
+        "title": "68--Herbicides",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2009-05-28T12:14:06-04:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "W91278-09-35-ARRA",
+        "title": "RECOVERY--68--SUPPLY AND DELIVER HERBICIDES",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2009-05-26T12:21:06-04:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "W91278-09-20-ARRA",
+        "title": "RECOVERY--68--DELIVERY ORDER NOTIFICATION",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2009-05-19T18:43:12-04:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "W91278-08-T-0059",
+        "title": "68--Furnish and Deliver Herbicide - Aquathol K and Aquathol Super K",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2008-10-14T16:25:35-04:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "F38604-07-R-A030",
+        "title": "D -- USAFE Rangeless Interim Training System (URITS) Pods",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2007-08-10T00:00:00-04:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "N42082-05-Q-0102",
+        "title": "58 -- 58-navigation detection",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2005-07-06T00:00:00-05:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "DACW01-03-T-0032",
+        "title": "87--Furnish and deliver herbicides to the U. S. Army Corps of Engineers, Chattahoochee, Florida.",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2003-04-21T00:00:00-05:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "N4425526R0005_Industry_Day",
+        "title": "Kitsap Industrial Readiness Summit and NAVFAC Northwest Shipyard Infrastructure Optimization Program",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T21:34:21+00:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "FA487726QA137",
+        "title": "CCTV Cameras",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T21:14:39+00:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "FA8806-26-S-0001_AOI4_CSO_Call2",
+        "title": "Kronos Family of Systems Commercial Solutions Opening",
+        "score": 2,
+        "weird": [
+          "suspicious_vendor",
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T20:31:59+00:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "FA460026Q0066",
+        "title": "Install New 97th IS Air Handling Unit, B301 - Offutt AFB, NE",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T20:17:48+00:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "W58RGZ-26-B-0024",
+        "title": "Pre-Solicitation Synopsis for Overhaul of the Hydraulic Valve",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T19:04:02+00:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "HT941026Q2039",
+        "title": "Medical Courier Services // 355th Medical Group",
+        "score": 2,
+        "weird": [
+          "suspicious_vendor",
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T19:03:52+00:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "N61331-26-Q-KS47",
+        "title": "Small Business Set Aside for Ocean Simulation Facility Modernization per attachments- CMMC Level 1 R",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T18:55:38+00:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "N6660426Q0188",
+        "title": "Breakout Box",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T17:05:35+00:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "N4008026RAEIDIQINDUSTRIAL",
+        "title": "NAVFAC WASHINGTON FY26 AE IDIQ INDUSTRIAL",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T16:59:24+00:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "SPMYM326Q6073",
+        "title": "VLS RUGGEDIZED DESIGN SWITCH",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T16:35:06+00:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "W911QY26RREFR",
+        "title": "Preventative Maintenance and Repair Services for Government-Owned Reach-In and Walk-In Refrigeration",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T16:24:47+00:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      },
+      {
+        "id": "W911QY-26-R-SHAD",
+        "title": "Installation of four Exterior Shading Systems",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T16:20:14+00:00",
+        "deadline": "",
+        "entity": "DEPT OF DEFENSE"
+      }
+    ]
+  },
+  "DEPT OF THE NAVY": {
+    "entity": "DEPT OF THE NAVY",
+    "total_contracts": 94,
+    "audited": 37,
+    "total_weird_score": 38,
+    "avg_weird_score": 1.027027027027027,
+    "top_weird_signals": [
+      [
+        "missing_contact_email",
+        37
+      ],
+      [
+        "sole_source_vague",
+        1
+      ]
+    ],
+    "high_risk_contracts": [],
+    "all_audits": [
+      {
+        "id": "N0016423Q0261",
+        "title": "SOLE SOURCE \u2013 ROTATIONAL STAND",
+        "score": 2,
+        "weird": [
+          "sole_source_vague",
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2023-07-13T13:25:00-04:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N42082-05-Q-0102",
+        "title": "58 -- 58-navigation detection",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2005-07-06T00:00:00-05:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N4425526R0005_Industry_Day",
+        "title": "Kitsap Industrial Readiness Summit and NAVFAC Northwest Shipyard Infrastructure Optimization Program",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T21:34:21+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N61331-26-Q-KS47",
+        "title": "Small Business Set Aside for Ocean Simulation Facility Modernization per attachments- CMMC Level 1 R",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T18:55:38+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N6660426Q0188",
+        "title": "Breakout Box",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T17:05:35+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N4008026RAEIDIQINDUSTRIAL",
+        "title": "NAVFAC WASHINGTON FY26 AE IDIQ INDUSTRIAL",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T16:59:24+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N6833526Q0430",
+        "title": "F/A-18 Load Test Adapters for Blocks I, II & III Slings",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T11:45:00+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QAD04",
+        "title": "TAPE,SEALING",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T11:39:27+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QAC71",
+        "title": "CIRCUIT BREAKER",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T11:36:25+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QAD03",
+        "title": "LINING PAD, BHD",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T11:33:29+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QJC05",
+        "title": "TURBINE ROTOR,TURBI",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T09:51:06+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QEC77",
+        "title": "GASKET,SPIRAL WOUND",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T09:36:17+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QEC85",
+        "title": "NUT,PLAIN,HEXAGON",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T09:30:08+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QJC04",
+        "title": "CRANKSHAFT,COMPRESS",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T09:15:22+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QYA8J",
+        "title": "SCREW,CAP,SCH FLH82",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T09:12:58+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QEC93",
+        "title": "STEM DISC BONNET AY",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T09:05:25+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QEC59",
+        "title": "SEAL, SPLIT",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:50:24+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QFF88",
+        "title": "SEAL ASSEMBLY",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:40:50+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QUC11",
+        "title": "59--CAPACITOR ASSEMBLY, IN REPAIR/MODIFICATION OF",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:35:55+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QEC25",
+        "title": "CABLE,COAX ARMOR",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:30:58+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QLC38",
+        "title": "VALVE,REGULATING,FL",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:28:30+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QEC78",
+        "title": "GASKET,SPRL WND",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:21:03+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QNE04",
+        "title": "CORD ASSEMBLY,ELECT",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:18:44+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QLC24",
+        "title": "61--MOTOR,ALTERNATING C, IN REPAIR/MODIFICATION OF",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:16:26+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QEC79",
+        "title": "GASKET, HYBRID",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:14:06+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QEC43",
+        "title": "DUST COVER ARINC600",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:09:25+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QJC06",
+        "title": "COMPRESSOR,ROTARY",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:06:09+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QTB92",
+        "title": "HUB,PROPELLER,SHIP",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:03:50+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QJC03",
+        "title": "COMPUTER,RADAR SIM",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:01:17+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QEB02",
+        "title": "56--CLOTH, SALMON",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T07:46:26+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QEC18",
+        "title": "BEARING, F. E.",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T07:43:54+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QEB65",
+        "title": "VALVE,GLOBE",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T07:38:57+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QDB42",
+        "title": "CIRCUIT CARD ASSEMB",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T07:28:54+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QAC68",
+        "title": "LED",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T07:26:25+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QDB12",
+        "title": "61--FUSE BLK/EMI A11, IN REPAIR/MODIFICATION OF",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T07:23:57+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426QDB43",
+        "title": "CIRCUIT CARD ASSEMB",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T07:21:30+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      },
+      {
+        "id": "N0010426RBX10",
+        "title": "70--HMI KIT, IN REPAIR/MODIFICATION OF",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-07-17T08:35:36+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE NAVY"
+      }
+    ]
+  },
+  "HOMELAND SECURITY": {
+    "entity": "HOMELAND SECURITY",
+    "total_contracts": 45,
+    "audited": 37,
+    "total_weird_score": 59,
+    "avg_weird_score": 1.5945945945945945,
+    "top_weird_signals": [
+      [
+        "missing_contact_email",
+        37
+      ],
+      [
+        "duplicate_solicitation_1",
+        21
+      ],
+      [
+        "suspicious_vendor",
+        1
+      ]
+    ],
+    "high_risk_contracts": [],
+    "all_audits": [
+      {
+        "id": "HSTS02-06-Q-TTC146",
+        "title": "70--IT NETWORKING EQUIPMENT",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2006-08-31T00:00:00-04:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "PR200300891",
+        "title": "58 -- BPA for Transponders",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2003-06-10T00:00:00-05:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z08026QRN062",
+        "title": "INTERCOMMUNICATION STATION",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-08-04T13:08:10+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70z08026QDE027",
+        "title": "TRANSMITTER,PRESSURE",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-08-04T12:26:01+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z08026QZC030",
+        "title": "inspection for SEARCHLIGHT, 350 WATT ARC, 25",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-07-10T17:01:24+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z08026QAG125",
+        "title": "inspection for OPERATOR INTERFACE, ELECTRONIC",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-07-08T16:32:03+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z08026QAG170",
+        "title": "open inspect and report SAFETY SHUT-OFF",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-07-06T11:34:37+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z08026QAG090",
+        "title": "Open, Inspect, Report and Overhaul Governor",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-07-01T17:11:18+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70z08026QDF022",
+        "title": "ODMS FILTER ELEMENT,FLUID",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-07-27T11:33:03+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z08026QAK038",
+        "title": "REPAIR KIT, ADHESIVE PATCH",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-07-27T11:24:32+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z08026Q20135",
+        "title": "Open, Inspect, Report and Overhaul Accumulator Hydraulic",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-06-30T16:53:19+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70z08026QRO098",
+        "title": "ODMS FILTER ELEMENT, FLUID",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-07-24T14:57:03+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70z08026QAG092",
+        "title": "inspection for PUMP, CENTRIFUGAL",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-07-24T12:49:27+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70z08026QAG089",
+        "title": "inspection for PORT & STBD R/W PUMP, 42 TOOTH, OIR",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-07-24T12:45:38+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z08026Q20058",
+        "title": "Open, Inspect, Report and Overhaul RIGHT HAND PROPELLER",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-06-29T16:03:45+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z03326QSEAT009",
+        "title": "USCG Station Siuslaw Roofing and Sheetrock Repair",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-07-23T16:26:04+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z08026QAG172",
+        "title": "VALVE,PRESSURE REDUCING",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-07-06T11:54:34+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70z08026QDI031",
+        "title": "MULTICOUPLER UNIT",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-07-01T16:00:38+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z08026QDI038",
+        "title": "CONTROL DISPLAY UNIT",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-06-29T13:29:20+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z08026QAF153",
+        "title": "BEARING, HALF SLEEVE",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-06-29T13:23:35+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z08026QAG197",
+        "title": "CIRCUIT BREAKER",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-06-29T12:56:12+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z08026QZC038",
+        "title": "ANCHOR WINDLASS",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-06-29T12:50:19+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z08026QZC033",
+        "title": "PUMP UNIT,CENTRIFUGAL",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-06-29T12:47:22+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z08026QCV173",
+        "title": "ODMS COMPRESSOR, COMPRESSOR UNIT, REFRIGERATION",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-06-29T12:35:47+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z08026QCV176",
+        "title": "LIVOS TECHNOLOGIES / DOMETIC PARTS",
+        "score": 2,
+        "weird": [
+          "suspicious_vendor",
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-06-29T12:30:52+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70z08026QCV160",
+        "title": "CIRCUIT CARD ASSEMBLY",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-06-29T12:12:59+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z08026QRN035",
+        "title": "TERMINAL DATA PROCESSING Open, Inspect and Report",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-06-29T12:04:28+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z08026QAK037",
+        "title": "Open, Inspect, Report and Overhaul Propulsion Shaft",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-06-25T15:27:56+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "",
+        "title": "Notice of Intent to Solicit from a Single Source - Drone Training",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-07-21T16:13:02+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z08026QRN062",
+        "title": "INTERCOMMUNICATION STATION",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "unmanned",
+        "publish_date": "2026-08-04T13:08:10+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70z08026QDE027",
+        "title": "TRANSMITTER,PRESSURE",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "unmanned",
+        "publish_date": "2026-08-04T12:26:01+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z08026QZC030",
+        "title": "inspection for SEARCHLIGHT, 350 WATT ARC, 25",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "unmanned",
+        "publish_date": "2026-07-10T17:01:24+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z08026QAG125",
+        "title": "inspection for OPERATOR INTERFACE, ELECTRONIC",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "unmanned",
+        "publish_date": "2026-07-08T16:32:03+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z08026QAG170",
+        "title": "open inspect and report SAFETY SHUT-OFF",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "unmanned",
+        "publish_date": "2026-07-06T11:34:37+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z08026QAG090",
+        "title": "Open, Inspect, Report and Overhaul Governor",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "unmanned",
+        "publish_date": "2026-07-01T17:11:18+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70z08026QDF022",
+        "title": "ODMS FILTER ELEMENT,FLUID",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "unmanned",
+        "publish_date": "2026-07-27T11:33:03+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      },
+      {
+        "id": "70Z08026QAK038",
+        "title": "REPAIR KIT, ADHESIVE PATCH",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "unmanned",
+        "publish_date": "2026-07-27T11:24:32+00:00",
+        "deadline": "",
+        "entity": "HOMELAND SECURITY"
+      }
+    ]
+  },
+  "DEPT OF THE ARMY": {
+    "entity": "DEPT OF THE ARMY",
+    "total_contracts": 87,
+    "audited": 37,
+    "total_weird_score": 54,
+    "avg_weird_score": 1.4594594594594594,
+    "top_weird_signals": [
+      [
+        "missing_contact_email",
+        37
+      ],
+      [
+        "duplicate_solicitation_1",
+        4
+      ],
+      [
+        "uap_anomalous",
+        3
+      ],
+      [
+        "duplicate_solicitation_2",
+        3
+      ],
+      [
+        "suspicious_vendor",
+        3
+      ],
+      [
+        "foreign_place",
+        2
+      ],
+      [
+        "sole_source_vague",
+        1
+      ],
+      [
+        "classified_ref",
+        1
+      ]
+    ],
+    "high_risk_contracts": [
+      {
+        "id": "W911QX26QA204",
+        "title": "NOTICE OF INTENT TO SOLE SOURCE \u2013 Tunable Optical Parametric Oscillator",
+        "score": 4,
+        "weird": [
+          "sole_source_vague",
+          "classified_ref",
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-08-05T00:40:33+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W15P7T13RD048",
+        "title": "58--4 sets of tactical seismic/acoustic sensors (Battlefield Anti-Instrusion System (BAIS) or equiva",
+        "score": 3,
+        "weird": [
+          "uap_anomalous",
+          "foreign_place",
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2013-08-20T09:44:43-04:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W58RGZ-26-S-C001-0008",
+        "title": "Drone Marketplace Onboarding of Group 3 UAS",
+        "score": 3,
+        "weird": [
+          "suspicious_vendor",
+          "missing_contact_email",
+          "duplicate_solicitation_2"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T13:37:12+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W58RGZ-26-S-C001-0008",
+        "title": "Drone Marketplace Onboarding of Group 3 UAS",
+        "score": 3,
+        "weird": [
+          "suspicious_vendor",
+          "missing_contact_email",
+          "duplicate_solicitation_2"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-08-04T13:37:12+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      }
+    ],
+    "all_audits": [
+      {
+        "id": "USACC3BDEKPM0004",
+        "title": "69--3BDE JR Marksmanship Equipment",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2023-09-15T17:00:38+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W911PT_SS_Dye_Penetrant_Insp_Sys",
+        "title": "Dye Penetrant Inspection System for Watervliet Arsenal",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2021-07-02T16:15:37-04:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "JACKADSLTB0015",
+        "title": "59--Wi-Fi Components",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2020-09-09T15:23:32-04:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "JBSA323DABDMO0003",
+        "title": "77--Sound Equipment",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2020-04-14T13:39:52-04:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "BRAGG4BN3SFGREG0003",
+        "title": "D--Communication's Equipment",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2020-03-26T15:43:15-04:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W52P1J17R0165",
+        "title": "MAINTENANCE OF ELECTRONIC AND COMMUNICATIONS FACILITIES",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2017-08-30T10:42:44-04:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W52P1J-17-R-BGCA",
+        "title": "Blue Grass Chemical Activity (BGCA) is seeking potential companies who are capable of supporting pre",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2017-05-16T13:56:44-04:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W56HZV16R0187",
+        "title": "HEMTT vehicles and OCONUS Training for the Government of Qatar",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2016-11-03T15:19:11-04:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W91CRB15R5032",
+        "title": "10--Global Positioning Systems",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2015-09-10T13:12:01-04:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W15P7T-13-R-D049",
+        "title": "61--10kW 50/60Hz Adjustable Diesel Generators",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2013-08-22T11:39:39-04:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W15P7T13RD523",
+        "title": "58--Mine Detectors, AN/PSS-14 Type System",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2013-07-18T13:53:15-04:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W15P7T13RD048",
+        "title": "58--4 sets of tactical seismic/acoustic sensors (Battlefield Anti-Instrusion System (BAIS) or equiva",
+        "score": 3,
+        "weird": [
+          "uap_anomalous",
+          "foreign_place",
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2013-08-20T09:44:43-04:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W15P7T-13-R-D009",
+        "title": "58--(QTY.44)TSE-AMP MB-50 AMPLIFIER",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2013-06-17T16:23:31-04:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "MARKET-SURVEY-523-1",
+        "title": "58--FMS Case H8-B-UAP",
+        "score": 2,
+        "weird": [
+          "uap_anomalous",
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2013-04-09T10:03:58-04:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "MARKET-SURVEY-5416-1",
+        "title": "58--FMS Case H8-B-UAP",
+        "score": 2,
+        "weird": [
+          "uap_anomalous",
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2013-03-28T10:05:21-04:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W912EP-08-D-0014-0004",
+        "title": "RECOVERY--99--PROJECT NUMBER 15170, Removal Of Aquatic Growth, FL",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2010-03-25T11:42:51-04:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W68GYJ9083NM29",
+        "title": "68--Herbicides",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2009-05-28T12:14:06-04:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W91278-09-35-ARRA",
+        "title": "RECOVERY--68--SUPPLY AND DELIVER HERBICIDES",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2009-05-26T12:21:06-04:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W91278-09-20-ARRA",
+        "title": "RECOVERY--68--DELIVERY ORDER NOTIFICATION",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2009-05-19T18:43:12-04:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W91278-08-T-0059",
+        "title": "68--Furnish and Deliver Herbicide - Aquathol K and Aquathol Super K",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2008-10-14T16:25:35-04:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "DACW01-03-T-0032",
+        "title": "87--Furnish and deliver herbicides to the U. S. Army Corps of Engineers, Chattahoochee, Florida.",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2003-04-21T00:00:00-05:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W58RGZ-26-B-0024",
+        "title": "Pre-Solicitation Synopsis for Overhaul of the Hydraulic Valve",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T19:04:02+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W911QY26RREFR",
+        "title": "Preventative Maintenance and Repair Services for Government-Owned Reach-In and Walk-In Refrigeration",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T16:24:47+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W911QY-26-R-SHAD",
+        "title": "Installation of four Exterior Shading Systems",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T16:20:14+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W911QY-26-R-INST",
+        "title": "Installation of Instron Machine",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T16:13:42+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "PANRSA-26-P-040123",
+        "title": "Next Generation Counter-Small UAS Missile (NGCM)",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_2"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T15:10:47+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W58RGZ-26-S-C001-0008",
+        "title": "Drone Marketplace Onboarding of Group 3 UAS",
+        "score": 3,
+        "weird": [
+          "suspicious_vendor",
+          "missing_contact_email",
+          "duplicate_solicitation_2"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T13:37:12+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W911QX26QA204",
+        "title": "NOTICE OF INTENT TO SOLE SOURCE \u2013 Tunable Optical Parametric Oscillator",
+        "score": 4,
+        "weird": [
+          "sole_source_vague",
+          "classified_ref",
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-08-05T00:40:33+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W50S9E26QJ012",
+        "title": "Student Recruitment and Enrollment Management Platform",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-08-04T20:29:16+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W58RGZ-26-S-C001-0007",
+        "title": "Call for Solutions (CFS): Drone Marketplace Onboarding of US Payloads, Software, Components, and Ena",
+        "score": 2,
+        "weird": [
+          "suspicious_vendor",
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-08-04T13:38:34+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W58RGZ-26-S-C001-0008",
+        "title": "Drone Marketplace Onboarding of Group 3 UAS",
+        "score": 3,
+        "weird": [
+          "suspicious_vendor",
+          "missing_contact_email",
+          "duplicate_solicitation_2"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-08-04T13:37:12+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W58RGZ-26-S-C001-006",
+        "title": "Battalion Reconnaissance UAS",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-08-03T22:01:24+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "27_08",
+        "title": "UAS Purchase",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-08-03T18:53:05+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W50S9E26QJ011",
+        "title": "Bio-impedance (BIA) scales InBody 770",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-08-03T18:31:40+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W911QX26CA019",
+        "title": "AUGUR SHIELD Electromagnetic Spectrum Applications for Countering Frequency-Agile Unmanned Aerial Sy",
+        "score": 2,
+        "weird": [
+          "missing_contact_email",
+          "duplicate_solicitation_1"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-07-27T18:26:06+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W91CRB-26-R-DRNE",
+        "title": "Skydio X10 Drone Starter Kit, NightSense Infrared Attachment for X10 under Foreign Military Sales Ca",
+        "score": 2,
+        "weird": [
+          "foreign_place",
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-06-24T18:00:00+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      },
+      {
+        "id": "W91QVP26Q2603",
+        "title": "Recover UAS debris from land and shallow water (Palau)",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "drone",
+        "publish_date": "2026-07-31T01:32:45+00:00",
+        "deadline": "",
+        "entity": "DEPT OF THE ARMY"
+      }
+    ]
+  },
+  "NAVSUP": {
+    "entity": "NAVSUP",
+    "total_contracts": 52,
+    "audited": 37,
+    "total_weird_score": 37,
+    "avg_weird_score": 1.0,
+    "top_weird_signals": [
+      [
+        "missing_contact_email",
+        37
+      ]
+    ],
+    "high_risk_contracts": [],
+    "all_audits": [
+      {
+        "id": "N42082-05-Q-0102",
+        "title": "58 -- 58-navigation detection",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "UAP",
+        "publish_date": "2005-07-06T00:00:00-05:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QAD04",
+        "title": "TAPE,SEALING",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T11:39:27+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QAC71",
+        "title": "CIRCUIT BREAKER",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T11:36:25+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QAD03",
+        "title": "LINING PAD, BHD",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T11:33:29+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QJC05",
+        "title": "TURBINE ROTOR,TURBI",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T09:51:06+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QEC77",
+        "title": "GASKET,SPIRAL WOUND",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T09:36:17+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QEC85",
+        "title": "NUT,PLAIN,HEXAGON",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T09:30:08+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QJC04",
+        "title": "CRANKSHAFT,COMPRESS",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T09:15:22+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QYA8J",
+        "title": "SCREW,CAP,SCH FLH82",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T09:12:58+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QEC93",
+        "title": "STEM DISC BONNET AY",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T09:05:25+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QEC59",
+        "title": "SEAL, SPLIT",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:50:24+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QFF88",
+        "title": "SEAL ASSEMBLY",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:40:50+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QUC11",
+        "title": "59--CAPACITOR ASSEMBLY, IN REPAIR/MODIFICATION OF",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:35:55+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QEC25",
+        "title": "CABLE,COAX ARMOR",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:30:58+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QLC38",
+        "title": "VALVE,REGULATING,FL",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:28:30+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QEC78",
+        "title": "GASKET,SPRL WND",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:21:03+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QNE04",
+        "title": "CORD ASSEMBLY,ELECT",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:18:44+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QLC24",
+        "title": "61--MOTOR,ALTERNATING C, IN REPAIR/MODIFICATION OF",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:16:26+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QEC79",
+        "title": "GASKET, HYBRID",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:14:06+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QEC43",
+        "title": "DUST COVER ARINC600",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:09:25+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QJC06",
+        "title": "COMPRESSOR,ROTARY",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:06:09+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QTB92",
+        "title": "HUB,PROPELLER,SHIP",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:03:50+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QJC03",
+        "title": "COMPUTER,RADAR SIM",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T08:01:17+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QEB02",
+        "title": "56--CLOTH, SALMON",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T07:46:26+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QEC18",
+        "title": "BEARING, F. E.",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T07:43:54+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QEB65",
+        "title": "VALVE,GLOBE",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T07:38:57+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QDB42",
+        "title": "CIRCUIT CARD ASSEMB",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T07:28:54+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QAC68",
+        "title": "LED",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T07:26:25+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QDB12",
+        "title": "61--FUSE BLK/EMI A11, IN REPAIR/MODIFICATION OF",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T07:23:57+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QDB43",
+        "title": "CIRCUIT CARD ASSEMB",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-08-04T07:21:30+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426RBX10",
+        "title": "70--HMI KIT, IN REPAIR/MODIFICATION OF",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-07-17T08:35:36+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QXB71",
+        "title": "AMPLIFIER",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-07-15T07:58:24+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QQC01",
+        "title": "CIRCUIT CARD ASSEMB",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-07-14T08:21:06+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QNC89",
+        "title": "CIRCUIT CARD ASSEMB",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-07-10T09:10:14+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010425QUB32",
+        "title": "58--CONTROL-INDICATOR, IN REPAIR/MODIFICATION OF",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-07-06T17:28:39+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010424QEF07",
+        "title": "SWIPE BOX,SPECIAL",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-06-26T07:10:51+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      },
+      {
+        "id": "N0010426QBY12",
+        "title": "TRANSMITTER",
+        "score": 1,
+        "weird": [
+          "missing_contact_email"
+        ],
+        "days_to_deadline": null,
+        "entities": [],
+        "source_query": "cybersecurity",
+        "publish_date": "2026-06-23T20:56:03+00:00",
+        "deadline": "",
+        "entity": "NAVSUP"
+      }
+    ]
+  }
+}

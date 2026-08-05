@@ -1,0 +1,314 @@
+{
+  "timestamp": "2026-08-06T01:26:18.315890",
+  "zip_code": "80234",
+  "location": "Westminster, Colorado",
+  "method": "Agency-based geo inference + federal installation text matching + nearby state detection",
+  "total_fillable_geo_boosted": 352,
+  "colorado_specific_fillable": 71,
+  "strike_list_80234": [
+    {
+      "id": "IT-1",
+      "title": "Notification of Award of Sole Source Bridge Action_Cybersecurity and Privacy Program Support Services",
+      "agency": "TRANSPORTATION, DEPARTMENT OF",
+      "location_guess": "Denver CO",
+      "geo_score": 8,
+      "geo_reasons": [
+        "agency_TRANSPORTATION, DEPARTMENT OF_8pts"
+      ],
+      "base_score": 44,
+      "composite": 52,
+      "deadline": "",
+      "fillable": true
+    },
+    {
+      "id": "M67854-26-I-0225",
+      "title": "Notice of Intent to Sole Source and Sources Sought: Counter-small Unmanned Aerial Systems (C-sUAS) for the Amphibious Combat Vehicle (ACV)",
+      "agency": "DEPT OF DEFENSE",
+      "location_guess": "Nationwide / Unknown",
+      "geo_score": 2,
+      "geo_reasons": [
+        "nationwide_2pts"
+      ],
+      "base_score": 44,
+      "composite": 46,
+      "deadline": "",
+      "fillable": true
+    },
+    {
+      "id": "FY24-0069",
+      "title": "Notice of Intent to Sole Source - D-Fend Solutions, Inc.",
+      "agency": "HOMELAND SECURITY, DEPARTMENT OF",
+      "location_guess": "Buckley SFB / Aurora CO",
+      "geo_score": 8,
+      "geo_reasons": [
+        "agency_HOMELAND SECURITY, DEPARTMENT OF_8pts"
+      ],
+      "base_score": 37,
+      "composite": 45,
+      "deadline": "",
+      "fillable": true
+    },
+    {
+      "id": "NUFOHRC_20260731",
+      "title": "Notice of Intent to Sole Source: Historical UAP Data and Analysis Subscription",
+      "agency": "DEPT OF DEFENSE",
+      "location_guess": "Nationwide / Unknown",
+      "geo_score": 2,
+      "geo_reasons": [
+        "nationwide_2pts"
+      ],
+      "base_score": 42,
+      "composite": 44,
+      "deadline": "",
+      "fillable": true
+    },
+    {
+      "id": "1333MJ26Q0034",
+      "title": "Notice of Intent to Sole Source - Freefly Astromax",
+      "agency": "COMMERCE, DEPARTMENT OF",
+      "location_guess": "Nationwide / Unknown",
+      "geo_score": 2,
+      "geo_reasons": [
+        "nationwide_2pts"
+      ],
+      "base_score": 42,
+      "composite": 44,
+      "deadline": "",
+      "fillable": true
+    },
+    {
+      "id": "F2XJA76154AW01",
+      "title": "FY26 AFJROTC VEX AIR Competition Drones - Intent to Sole Source",
+      "agency": "DEPT OF DEFENSE",
+      "location_guess": "Nationwide / Unknown",
+      "geo_score": 2,
+      "geo_reasons": [
+        "nationwide_2pts"
+      ],
+      "base_score": 42,
+      "composite": 44,
+      "deadline": "",
+      "fillable": true
+    },
+    {
+      "id": "W50S8V-26-Q-0026",
+      "title": "Notice of Intent to Sole Source - SkySafe SaaS Drone Detection Coverage Subscription",
+      "agency": "DEPT OF DEFENSE",
+      "location_guess": "Nationwide / Unknown",
+      "geo_score": 2,
+      "geo_reasons": [
+        "nationwide_2pts"
+      ],
+      "base_score": 40,
+      "composite": 42,
+      "deadline": "",
+      "fillable": true
+    },
+    {
+      "id": "W9132V-21-N-9967",
+      "title": "Notice of Intent to Sole Source U.S Army compliant sUAS fixed wing vertical takeoff and landing aircraft for survey mapping and for counter UAS research",
+      "agency": "DEPT OF DEFENSE",
+      "location_guess": "Nationwide / Unknown",
+      "geo_score": 2,
+      "geo_reasons": [
+        "nationwide_2pts"
+      ],
+      "base_score": 39,
+      "composite": 41,
+      "deadline": "",
+      "fillable": true
+    },
+    {
+      "id": "N0016423Q0261",
+      "title": "SOLE SOURCE \u2013 ROTATIONAL STAND",
+      "agency": "DEPT OF DEFENSE",
+      "location_guess": "Nationwide / Unknown",
+      "geo_score": 2,
+      "geo_reasons": [
+        "nationwide_2pts"
+      ],
+      "base_score": 37,
+      "composite": 39,
+      "deadline": "",
+      "fillable": true
+    },
+    {
+      "id": "N0016422RJW72",
+      "title": "SOLE SOURCE \u2013 Common Chassis Weapons Replaceable Assemblies (WRA\u2019s), Shop Replaceable Assemblies (SRA\u2019s) and Sub-Assemblies",
+      "agency": "DEPT OF DEFENSE",
+      "location_guess": "Nationwide / Unknown",
+      "geo_score": 2,
+      "geo_reasons": [
+        "nationwide_2pts"
+      ],
+      "base_score": 37,
+      "composite": 39,
+      "deadline": "",
+      "fillable": true
+    },
+    {
+      "id": "89233126DNA000078",
+      "title": "23--Procure two (2) prototypes and twenty-five (25) full production of On-The-Move (OTM) Counter-Unmanned Aircraft System (C-UAS) Special Operations Vehicle (SOV). IDIQ, FFP, 5-years.",
+      "agency": "ENERGY, DEPARTMENT OF",
+      "location_guess": "NREL Golden / Denver Federal Center",
+      "geo_score": 8,
+      "geo_reasons": [
+        "agency_ENERGY, DEPARTMENT OF_8pts"
+      ],
+      "base_score": 29,
+      "composite": 37,
+      "deadline": "",
+      "fillable": true
+    },
+    {
+      "id": "140R4026Q0131",
+      "title": "Provo Area Office Camera Crawler",
+      "agency": "INTERIOR, DEPARTMENT OF THE",
+      "location_guess": "Denver Federal Center",
+      "geo_score": 8,
+      "geo_reasons": [
+        "agency_INTERIOR, DEPARTMENT OF THE_8pts"
+      ],
+      "base_score": 27,
+      "composite": 35,
+      "deadline": "",
+      "fillable": true
+    },
+    {
+      "id": "70Z08026QRN062",
+      "title": "INTERCOMMUNICATION STATION",
+      "agency": "HOMELAND SECURITY, DEPARTMENT OF",
+      "location_guess": "Buckley SFB / Aurora CO",
+      "geo_score": 8,
+      "geo_reasons": [
+        "agency_HOMELAND SECURITY, DEPARTMENT OF_8pts"
+      ],
+      "base_score": 27,
+      "composite": 35,
+      "deadline": "",
+      "fillable": true
+    },
+    {
+      "id": "1232SA26Q1096",
+      "title": "Cattle Squeeze Chute",
+      "agency": "AGRICULTURE, DEPARTMENT OF",
+      "location_guess": "Denver Federal Center",
+      "geo_score": 8,
+      "geo_reasons": [
+        "agency_AGRICULTURE, DEPARTMENT OF_8pts"
+      ],
+      "base_score": 27,
+      "composite": 35,
+      "deadline": "",
+      "fillable": true
+    },
+    {
+      "id": "70z08026QDE027",
+      "title": "TRANSMITTER,PRESSURE",
+      "agency": "HOMELAND SECURITY, DEPARTMENT OF",
+      "location_guess": "Buckley SFB / Aurora CO",
+      "geo_score": 8,
+      "geo_reasons": [
+        "agency_HOMELAND SECURITY, DEPARTMENT OF_8pts"
+      ],
+      "base_score": 27,
+      "composite": 35,
+      "deadline": "",
+      "fillable": true
+    },
+    {
+      "id": "70Z08026QAK038",
+      "title": "REPAIR KIT, ADHESIVE PATCH",
+      "agency": "HOMELAND SECURITY, DEPARTMENT OF",
+      "location_guess": "Buckley SFB / Aurora CO",
+      "geo_score": 8,
+      "geo_reasons": [
+        "agency_HOMELAND SECURITY, DEPARTMENT OF_8pts"
+      ],
+      "base_score": 27,
+      "composite": 35,
+      "deadline": "",
+      "fillable": true
+    },
+    {
+      "id": "70Z03326QSEAT009",
+      "title": "USCG Station Siuslaw Roofing and Sheetrock Repair",
+      "agency": "HOMELAND SECURITY, DEPARTMENT OF",
+      "location_guess": "Buckley SFB / Aurora CO",
+      "geo_score": 8,
+      "geo_reasons": [
+        "agency_HOMELAND SECURITY, DEPARTMENT OF_8pts"
+      ],
+      "base_score": 27,
+      "composite": 35,
+      "deadline": "",
+      "fillable": true
+    },
+    {
+      "id": "DOIDFBO260075",
+      "title": "15--J&A SAM Posting (Easy Aerial UAS)",
+      "agency": "INTERIOR, DEPARTMENT OF THE",
+      "location_guess": "Denver Federal Center",
+      "geo_score": 8,
+      "geo_reasons": [
+        "agency_INTERIOR, DEPARTMENT OF THE_8pts"
+      ],
+      "base_score": 27,
+      "composite": 35,
+      "deadline": "",
+      "fillable": true
+    },
+    {
+      "id": "23NA000610",
+      "title": "Teledyne Flir Skyraider Unmanned Systems in support of DOE/NNSA Office of Secure Transportation (OST)",
+      "agency": "ENERGY, DEPARTMENT OF",
+      "location_guess": "NREL Golden / Denver Federal Center",
+      "geo_score": 8,
+      "geo_reasons": [
+        "agency_ENERGY, DEPARTMENT OF_8pts"
+      ],
+      "base_score": 26,
+      "composite": 34,
+      "deadline": "",
+      "fillable": true
+    },
+    {
+      "id": "70Z08026QZC030",
+      "title": "inspection for SEARCHLIGHT, 350 WATT ARC, 25",
+      "agency": "HOMELAND SECURITY, DEPARTMENT OF",
+      "location_guess": "Buckley SFB / Aurora CO",
+      "geo_score": 8,
+      "geo_reasons": [
+        "agency_HOMELAND SECURITY, DEPARTMENT OF_8pts"
+      ],
+      "base_score": 25,
+      "composite": 33,
+      "deadline": "",
+      "fillable": true
+    }
+  ],
+  "colorado_installations": {
+    "Buckley SFB": "Aurora CO \u2014 DHS / Space Force",
+    "Peterson SFB": "Colorado Springs CO",
+    "Schriever SFB": "Colorado Springs CO",
+    "Cheyenne Mountain": "Colorado Springs CO \u2014 NORAD",
+    "NREL": "Golden CO \u2014 DOE",
+    "Denver Federal Center": "Lakewood CO \u2014 DOE, Interior, Agriculture, GSA",
+    "Fort Carson": "Colorado Springs CO \u2014 Army",
+    "Pueblo Chemical Depot": "Pueblo CO \u2014 Army"
+  },
+  "nearby_state_weights": {
+    "CO": 15,
+    "UT": 8,
+    "WY": 8,
+    "NM": 6,
+    "AZ": 5,
+    "KS": 4,
+    "NE": 4,
+    "OK": 3,
+    "TX": 3,
+    "ID": 5,
+    "MT": 5,
+    "NV": 3
+  }
+}

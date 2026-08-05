@@ -1,0 +1,12 @@
+{
+  "query": "research development and",
+  "result": {
+    "ok": true,
+    "route": "cached",
+    "results": [],
+    "ms": 0,
+    "total_ms": 84.50863999996727,
+    "benchmark_ms": 22.56870699989122
+  },
+  "ts": "2026-08-05T16:09:23.040729"
+}

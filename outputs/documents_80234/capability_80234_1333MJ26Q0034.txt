@@ -1,0 +1,51 @@
+CAPABILITY STATEMENT — Effusion Labs LLC
+============================================================
+Contract: 1333MJ26Q0034
+Title: Notice of Intent to Sole Source - Freefly Astromax
+Agency: COMMERCE, DEPARTMENT OF
+Performance Location: Nationwide / Unknown
+
+COMPANY PROFILE:
+Effusion Labs LLC is a small business headquartered in Westminster, Colorado 80234,
+specializing in LLM infrastructure, GPU resource allocation, distributed systems,
+and data engineering. 9+ years building resilient backend systems, managing
+Kubernetes clusters, and orchestrating high-throughput data pipelines.
+
+NATIONWIDE CAPABILITY:
+  • Westminster, CO 80234 headquarters with remote delivery capability
+  • Proven distributed team model (Charter Communications, Access Data Consulting)
+  • Can deploy to any federal installation within 24 hours
+
+RELEVANT NAICS CODES:
+  541511, 541512, 541519, 518210
+  541511 — Custom Computer Programming Services
+  541512 — Computer Systems Design Services
+  541519 — Other Computer Related Services
+  518210 — Data Processing, Hosting, and Related Services
+
+CORE COMPETENCIES:
+  • LLM Inference & GPU Resource Allocation (NVIDIA SMI telemetry, KV cache management)
+  • Kubernetes & Docker Containerization at scale
+  • Distributed Data Engineering (Spark, Kafka, Elasticsearch)
+  • Prompt Security & AI Evaluation Harnesses (HackAPrompt 2025 Top-10 finisher)
+  • Rust, Python, Scala, TypeScript development
+
+PAST PERFORMANCE:
+  • Charter Communications: Backend architecture for subscriber segmentation (Spark/Kafka)
+  • Access Data Consulting: Real-time targeting API integration
+  • Open Source: ComfyUI-TTools (github.com/toxicwind)
+
+DIFFERENTIATORS:
+  • Bare-metal LLM serving expertise (27B+ parameter models)
+  • Automated memory profiling eliminating runtime OOM failures
+  • Multi-agent routing with persistent file-based state
+  • Small business agility with enterprise-grade reliability
+  • NO clearance required — immediate availability
+  • Colorado-based — no travel burden for Front Range agencies
+
+CONTACT:
+  Christopher Ortega
+  Effusion Labs LLC
+  Westminster, CO 80234
+  303-667-3831 | denverchrisortega@gmail.com
+  resume.effusionlabs.com | github.com/toxicwind

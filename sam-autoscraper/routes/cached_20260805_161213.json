@@ -1,0 +1,135 @@
+{
+  "query": "pilot",
+  "result": {
+    "ok": true,
+    "route": "cached",
+    "results": [
+      {
+        "isCanceled": false,
+        "_rScore": 73,
+        "_type": "opportunity",
+        "publishDate": "2026-07-15T21:27:04+00:00",
+        "isActive": false,
+        "title": "FPV Quadcopters, Unassembled FPV Quadcopter Kits, FPV Pilot Kits",
+        "type": {
+          "code": "r",
+          "value": "Sources Sought"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2026-07-15T21:27:04.69+00:00",
+            "content": "<p>This Sources Sought (SS) is issued solely for market research purposes to determine potential sources. This notice does not constitute a Request for Proposal (RFP), Request for Quotation (RFQ), or Invitation for Bid (IFB) and is not to be construe"
+          }
+        ],
+        "solicitationNumber": "FA483026Q0057",
+        "responseDate": "2026-07-20T20:00:00+00:00",
+        "parentNoticeId": null,
+        "award": {
+          "awardee": {
+            "ueiSAM": null,
+            "name": null
+          }
+        },
+        "responseTimeZone": "America/New_York",
+        "modifiedDate": "2026-08-04T05:06:30+00:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100000000",
+            "code": "9700",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "DEPT OF DEFENSE",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "300000251",
+            "code": "5700",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "DEPT OF THE AIR FORCE",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100000669",
+            "code": "ACC",
+            "address": {
+              "zip": null,
+              "country": null,
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 3,
+            "name": "AIR COMBAT COMMAND",
+            "type": "MAJOR COMMAND",
+            "status": "active"
+          },
+          {
+            "organizationId": "500042766",
+            "code": "FA4830",
+            "address": {
+              "zip": "31699-1700",
+              "country": "USA",
+              "city": "MOODY AFB",
+              "streetAddress": "CP 229 257 2737",
+              "streetAddress2": "4380 B ALABAMA RD  BLDG 932",
+              "state": "GA"
+            },
+            "level": 4,
+            "name": "FA4830  23 CONS CC",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "dc62ec6c0e474be29e06653b0f6db91d",
+        "responseDateActual": "2026-07-20T16:00:00-04:00",
+        "modifications": {
+          "count": 0
+        },
+        "_source_query": "drone",
+        "_enriched": true,
+        "_enrichment": {
+          "naics": [],
+          "set_aside": "None",
+          "dates": {
+            "posted": "",
+            "response_deadline": "",
+            "archive": "",
+            "award": ""
+          },
+          "contacts": [],
+          "place": {
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+          },
+          "tags": [],
+          "related": [],
+          "enriched_at": "2026-08-05T14:08:08.934228"
+        }
+      }
+    ],
+    "ms": 0,
+    "total_ms": 66.20963099999244,
+    "benchmark_ms": 33.19878000002063
+  },
+  "ts": "2026-08-05T16:12:13.199416"
+}

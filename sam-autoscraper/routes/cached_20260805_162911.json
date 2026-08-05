@@ -1,0 +1,135 @@
+{
+  "query": "cybersecurity",
+  "result": {
+    "ok": true,
+    "route": "cached",
+    "results": [
+      {
+        "isCanceled": false,
+        "_rScore": 82,
+        "_type": "opportunity",
+        "publishDate": "2026-08-04T16:28:03+00:00",
+        "isActive": true,
+        "title": "Notification of Award of Sole Source Bridge Action_Cybersecurity and Privacy Program Support Services",
+        "type": {
+          "code": "u",
+          "value": "Justification"
+        },
+        "descriptions": [
+          {
+            "lastModifiedDate": "2026-08-04T16:28:03.312+00:00",
+            "content": "<p>In strict compliance with GSAR 538.7104-3(b)(ii), this notice is being made publicly available within 14 days after the award of the modification to ensure procedural transparency under GSA&rsquo;s modernized FSS ordering procedures.&nbsp; This ac"
+          }
+        ],
+        "solicitationNumber": "IT-1",
+        "responseDate": null,
+        "parentNoticeId": "b7aabe4acf78443aa7b1baf04b0837ac",
+        "award": {
+          "awardee": {
+            "ueiSAM": null,
+            "name": null
+          }
+        },
+        "responseTimeZone": null,
+        "modifiedDate": "2026-08-04T16:28:03+00:00",
+        "organizationHierarchy": [
+          {
+            "organizationId": "100000136",
+            "code": "6900",
+            "address": {
+              "zip": null,
+              "country": "US",
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 1,
+            "name": "TRANSPORTATION, DEPARTMENT OF",
+            "type": "DEPARTMENT",
+            "status": "active"
+          },
+          {
+            "organizationId": "100076812",
+            "code": "6930",
+            "address": {
+              "zip": null,
+              "country": "US",
+              "city": null,
+              "streetAddress": null,
+              "streetAddress2": null,
+              "state": null
+            },
+            "level": 2,
+            "name": "FEDERAL RAILROAD ADMINISTRATION",
+            "type": "AGENCY",
+            "status": "active"
+          },
+          {
+            "organizationId": "100162936",
+            "code": "693JJ6",
+            "address": {
+              "zip": "20590",
+              "country": "USA",
+              "city": "WASHINGTON",
+              "streetAddress": "OFC OF ACQUISITIONS, W BLDG, 3RD FL",
+              "streetAddress2": "1200 NEW JERSEY AVE, SE,",
+              "state": "DC"
+            },
+            "level": 3,
+            "name": "693JJ6 FEDERAL RAILROAD ADMIN",
+            "type": "OFFICE",
+            "status": "active"
+          }
+        ],
+        "_id": "2a9ea604d67044d69b6f6a18ce611501",
+        "responseDateActual": null,
+        "modifications": {
+          "count": 1
+        },
+        "_source_query": "cybersecurity",
+        "_enriched": true,
+        "_enrichment": {
+          "naics": [],
+          "set_aside": "None",
+          "dates": {
+            "posted": "",
+            "response_deadline": "",
+            "archive": "",
+            "award": ""
+          },
+          "contacts": [],
+          "place": {
+            "city": "",
+            "state": "",
+            "zip": "",
+            "country": ""
+          },
+          "tags": [
+            "cyber",
+            "sole_source"
+          ],
+          "related": [
+            {
+              "id": "M67854-26-I-0225",
+              "title": "Notice of Intent to Sole Source and Sources Sought: Counter-",
+              "score": 4,
+              "source": "unmanned"
+            },
+            {
+              "id": "W9132V-21-N-9967",
+              "title": "Notice of Intent to Sole Source U.S Army compliant sUAS fixe",
+              "score": 4,
+              "source": "counter_UAS"
+            }
+          ],
+          "enriched_at": "2026-08-05T14:08:08.821156"
+        }
+      }
+    ],
+    "ms": 0,
+    "total_ms": 130.79121199999122,
+    "benchmark_ms": 16.61062799999513
+  },
+  "ts": "2026-08-05T16:29:11.921267"
+}

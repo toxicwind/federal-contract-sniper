@@ -1,0 +1,23 @@
+{
+  "generated": "2026-08-05T16:12:13.068620",
+  "profile": "energy_grid",
+  "profile_name": "Energy Grid Modernization",
+  "user": "Christopher Ortega",
+  "company": "Effusion Labs LLC",
+  "total_queries": 7,
+  "total_unique": 1,
+  "total_ms": 1270.16,
+  "top_20": [
+    {
+      "id": "23NA000610",
+      "title": "Teledyne Flir Skyraider Unmanned Systems in support of DOE/NNSA Office of Secure Transportation (OST",
+      "score": 18,
+      "reasons": [
+        "no_clearance",
+        "it_keywords_1",
+        "ai_keywords_1"
+      ],
+      "deadline": ""
+    }
+  ]
+}

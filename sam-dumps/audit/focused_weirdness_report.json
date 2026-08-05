@@ -1,0 +1,87 @@
+{
+  "generated": "2026-08-05T14:34:20.953786",
+  "method": "Parallel audit of 5 top entities x 37 contracts each, regex-based anomaly detection",
+  "findings": [
+    {
+      "severity": "HIGH",
+      "entity": "DEPT OF THE ARMY",
+      "contract": "W911QX26QA204",
+      "title": "NOTICE OF INTENT TO SOLE SOURCE \u2013 Tunable Optical Parametric Oscillator",
+      "signal": "sole_source_classified_optics",
+      "details": "Sole source notice for Tunable Optical Parametric Oscillator posted 2026-08-05 (TODAY). No description, no NAICS, no contacts. Classified reference detected in title. Optical Parametric Oscillators are used in LIDAR, spectroscopy, and nonlinear optics - potentially for atmospheric sensing or directed energy applications.",
+      "weirdness_score": 4,
+      "recommendation": "Monitor for award notice. Cross-reference with Army Research Laboratory (ARL) directed energy or C-UAS programs."
+    },
+    {
+      "severity": "HIGH",
+      "entity": "HOMELAND SECURITY",
+      "contract": [
+        "70Z08026QRN062",
+        "70z08026QDE027",
+        "70Z08026QZC030",
+        "70Z08026QAG125",
+        "70Z08026QAG170"
+      ],
+      "title": "Multiple Duplicate Solicitation Numbers",
+      "signal": "contract_splitting",
+      "details": "13 solicitation numbers appear multiple times across 45 DHS contracts. This is consistent with contract splitting - breaking a large procurement into smaller pieces to stay under competitive threshold ($250K simplified acquisition). Example: 70Z08026QRN062 appears twice.",
+      "weirdness_score": 5,
+      "recommendation": "Aggregate duplicate solicitations by prefix. Check if total value exceeds simplified acquisition threshold. FOIA the award data."
+    },
+    {
+      "severity": "CRITICAL",
+      "entity": "DEPT OF DEFENSE / WHS / AARO",
+      "contract": "NUFOHRC_20260731",
+      "title": "Notice of Intent to Sole Source: Historical UAP Data and Analysis Subscription",
+      "signal": "uap_sole_source_data_buy",
+      "details": "AARO (All-Domain Anomaly Resolution Office) sole-source contract to NUFOHRC (National UFO Historic Records Center) for pre-1990 UAP data. The government is buying back its own history from a private nonprofit. No dollar amount listed. Response deadline 2026-08-17. This mirrors the AAWSAP pattern where DIA sole-sourced $22M to Bigelow Aerospace.",
+      "weirdness_score": 5,
+      "recommendation": "Monitor SAM.gov for award notice after Aug 17. FOIA NUFOHRC 990s. Check board members for AAWSAP/Bigelow connections."
+    },
+    {
+      "severity": "MEDIUM",
+      "entity": "DEPT OF THE ARMY",
+      "contract": "W15P7T13RD048",
+      "title": "58--4 sets of tactical seismic/acoustic sensors (Battlefield Anti-Instrusion System (BAIS) or equivalent), plus training, in fulfillment of requirements from Foreign Military Sales case H8-B-UAP, for Hungary.",
+      "signal": "uap_in_fms_case_number",
+      "details": "BAIS (Battlefield Anti-Intrusion System) seismic/acoustic sensors for Hungary FMS case H8-B-UAP. The FMS case number contains \"UAP\" which may be coincidental (Hungary case numbering) or may indicate the case relates to anomalous detection capabilities. BAIS sensors detect ground disturbances - could be adapted for anomalous event detection.",
+      "weirdness_score": 3,
+      "recommendation": "Verify FMS case H8-B-UAP through DSCA. Check if BAIS sensors have been deployed at any UAP-adjacent locations."
+    },
+    {
+      "severity": "MEDIUM",
+      "entity": "DEPT OF THE ARMY",
+      "contract": [
+        "W58RGZ-26-S-C001-0008",
+        "W58RGZ-26-S-C001-0007",
+        "W58RGZ-26-S-C001-0008",
+        "W58RGZ-26-S-C001-0008"
+      ],
+      "title": "Drone Marketplace Onboarding of Group 3 UAS",
+      "signal": "rapid_uas_onboarding",
+      "details": "4 contracts for Army Drone Marketplace onboarding Group 3 UAS (55-1320 lbs). Multiple duplicate solicitation numbers (W58RGZ-26-S-C001-0008 appears 3 times). This is the Army's effort to rapidly acquire commercial drone technology. Group 3 UAS are large enough to carry significant payloads including sensors, jammers, or kinetic effectors.",
+      "weirdness_score": 3,
+      "recommendation": "Cross-reference with C-UAS procurement. Check if any vendors are also Sky Elements competitors or FAA waiver holders."
+    },
+    {
+      "severity": "LOW",
+      "entity": "ALL ENTITIES",
+      "contract": "N/A",
+      "title": "Systematic Missing Contact Information",
+      "signal": "data_quality_issue",
+      "details": "364 of 364 records (100%) have no contact email. This is a SAM.gov data quality issue, not necessarily suspicious, but it impedes FOIA and vendor outreach.",
+      "weirdness_score": 1,
+      "recommendation": "Use SAM.gov entity lookup API to find POCs by UEI/CAGE."
+    },
+    {
+      "severity": "MEDIUM",
+      "entity": "ALL ENTITIES",
+      "contract": "N/A",
+      "title": "July 2026 Contract Spike",
+      "signal": "temporal_anomaly",
+      "details": "117 contracts published in July 2026 (32% of dataset). This spike may reflect end-of-fiscal-year procurement rush (federal FY ends Sep 30). Many agencies spend remaining budget in Q4.",
+      "weirdness_score": 2,
+      "recommendation": "Compare with historical July data. Check if spike is consistent with FY-end spending patterns."
+    }
+  ]
+}

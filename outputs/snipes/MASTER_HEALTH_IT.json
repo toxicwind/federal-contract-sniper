@@ -1,0 +1,135 @@
+{
+  "generated": "2026-08-05T16:29:13.926926",
+  "profile": "health_it",
+  "profile_name": "Health IT & Telemedicine",
+  "user": "Christopher Ortega",
+  "company": "Effusion Labs LLC",
+  "total_queries": 7,
+  "total_unique": 12,
+  "total_ms": 236.2,
+  "top_20": [
+    {
+      "id": "IT-1",
+      "title": "Notification of Award of Sole Source Bridge Action_Cybersecurity and Privacy Program Support Service",
+      "score": 22,
+      "reasons": [
+        "no_clearance",
+        "sole_source",
+        "very_recent"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "W15P7T13RD048",
+      "title": "58--4 sets of tactical seismic/acoustic sensors (Battlefield Anti-Instrusion System (BAIS) or equiva",
+      "score": 20,
+      "reasons": [
+        "no_clearance",
+        "it_keywords_1",
+        "ai_keywords_2"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "W58RGZ-26-B-0024",
+      "title": "Pre-Solicitation Synopsis for Overhaul of the Hydraulic Valve",
+      "score": 17,
+      "reasons": [
+        "no_clearance",
+        "very_recent"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "N0010426QLC38",
+      "title": "VALVE,REGULATING,FL",
+      "score": 17,
+      "reasons": [
+        "no_clearance",
+        "very_recent"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "N0010426QEB65",
+      "title": "VALVE,GLOBE",
+      "score": 17,
+      "reasons": [
+        "no_clearance",
+        "very_recent"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "36C26226Q1150",
+      "title": "S201--Building Drone Cleaning Service  VA Loma Linda Health Care Systems",
+      "score": 17,
+      "reasons": [
+        "no_clearance",
+        "it_keywords_1",
+        "recent"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "ATEC_122025",
+      "title": "INDUSTRY PARTNERSHIP OPPORTUNITY: U.S. Army Test and Evaluation Command (ATEC) Announces Availabilit",
+      "score": 17,
+      "reasons": [
+        "no_clearance",
+        "ai_keywords_1"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "36C24826Q1037",
+      "title": "Z1QA--Requirement- Power Wash South and East Tower-Miami VAMC",
+      "score": 16,
+      "reasons": [
+        "no_clearance",
+        "recent"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "36C24826Q1015",
+      "title": "R408--Innovation Portfolio Support Services",
+      "score": 16,
+      "reasons": [
+        "no_clearance",
+        "recent"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "70Z08026QAG172",
+      "title": "VALVE,PRESSURE REDUCING",
+      "score": 16,
+      "reasons": [
+        "no_clearance",
+        "recent"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "IVV271",
+      "title": "Sources Sought: Call For Technology Independent Verification &Validation (IV&V) 27-1: Spectrum Proof",
+      "score": 16,
+      "reasons": [
+        "no_clearance",
+        "recent"
+      ],
+      "deadline": ""
+    },
+    {
+      "id": "M6740026Q0053",
+      "title": "Professional services to provide exercise evaluation and exercise design support",
+      "score": 16,
+      "reasons": [
+        "no_clearance",
+        "recent"
+      ],
+      "deadline": ""
+    }
+  ]
+}

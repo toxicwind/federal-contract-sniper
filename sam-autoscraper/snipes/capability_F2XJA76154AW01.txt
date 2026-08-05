@@ -1,0 +1,31 @@
+CAPABILITY STATEMENT - Effusion Labs LLC
+=========================================
+Contract: F2XJA76154AW01
+Title: FY26 AFJROTC VEX AIR Competition Drones - Intent to Sole Source
+Agency: DEPT OF DEFENSE
+COMPANY PROFILE:
+Effusion Labs LLC is a SMALL in Westminster, CO 80234, specializing in
+LLM infrastructure, GPU resource allocation, distributed systems, and data engineering.
+9+ years building resilient backend systems, managing Kubernetes clusters, and
+orchestrating high-throughput data pipelines (Apache Spark, Kafka, AWS Kinesis).
+RELEVANT NAICS CODES:
+   (as required)
+  541511 - Custom Computer Programming Services
+  541512 - Computer Systems Design Services
+  541519 - Other Computer Related Services
+  518210 - Data Processing, Hosting, and Related Services
+CORE COMPETENCIES:
+  - LLM Inference & GPU Resource Allocation (NVIDIA SMI telemetry, KV cache management)
+  - Kubernetes & Docker Containerization at scale
+  - Distributed Data Engineering (Spark, Kafka, Elasticsearch)
+  - Prompt Security & AI Evaluation Harnesses (HackAPrompt 2025 Top-10 finisher)
+  - Rust, Python, Scala, TypeScript development
+PAST PERFORMANCE:
+  - Charter Communications: Backend architecture for subscriber segmentation (Spark/Kafka)
+  - Access Data Consulting: Real-time targeting API integration
+  - Open Source: ComfyUI-TTools (github.com/toxicwind)
+DIFFERENTIATORS:
+  - Bare-metal LLM serving expertise (27B+ parameter models)
+  - Automated memory profiling eliminating runtime OOM failures
+  - Multi-agent routing with persistent file-based state
+  - Small business agility with enterprise-grade reliability
