@@ -1,0 +1,82 @@
+{
+  "name": "Christopher Ortega",
+  "company": "Effusion Labs LLC",
+  "location": "Westminster, CO 80234",
+  "phone": "303-667-3831",
+  "email": "denverchrisortega@gmail.com",
+  "url": "resume.effusionlabs.com",
+  "github": "github.com/toxicwind",
+  "clearance": null,
+  "business_size": "SMALL",
+  "set_asides": [
+    "SB"
+  ],
+  "naics": [
+    "541511",
+    "541512",
+    "541519",
+    "511210",
+    "518210",
+    "541330",
+    "541715"
+  ],
+  "skills": [
+    "python",
+    "typescript",
+    "scala",
+    "rust",
+    "kubernetes",
+    "docker",
+    "llm",
+    "gpu",
+    "spark",
+    "kafka",
+    "aws",
+    "elasticsearch",
+    "ai",
+    "machine learning",
+    "data engineering",
+    "nvidia-smi",
+    "kv cache",
+    "rag systems",
+    "prompt security",
+    "prompt injection",
+    "linux internals",
+    "kernel tuning",
+    "distributed systems",
+    "process orchestration"
+  ],
+  "past_performance": [
+    {
+      "client": "Charter Communications",
+      "role": "Platform Technical Lead",
+      "years": "2019-2023",
+      "tech": "Scala,Spark,Kafka,Kinesis,Kubernetes,Elasticsearch",
+      "desc": "Backend architecture for subscriber segmentation and real-time activation"
+    },
+    {
+      "client": "Access Data Consulting",
+      "role": "Software Engineer",
+      "years": "2017-2019",
+      "tech": "TypeScript,Python,real-time APIs",
+      "desc": "Control planes and dashboards for targeting APIs"
+    },
+    {
+      "client": "Open Source",
+      "role": "Maintainer",
+      "years": "2023-Present",
+      "tech": "Python,JSON,SD3",
+      "desc": "ComfyUI-TTools for resolution optimization"
+    }
+  ],
+  "awards": [
+    "HackAPrompt 2025 \u2014 7th Place International"
+  ],
+  "differentiators": [
+    "Bare-metal LLM serving expertise (27B+ parameter models)",
+    "Automated memory profiling eliminating runtime OOM failures",
+    "Multi-agent routing with persistent file-based state",
+    "Small business agility with enterprise-grade reliability",
+    "NO clearance required \u2014 immediate availability"
+  ]
+}
